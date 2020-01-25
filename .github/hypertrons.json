@@ -15,7 +15,6 @@
         "description": "Related to hospital info",
         "color": "c2e0c6",
         "keywords": [
-          "医院",
           "hospital"
         ]
       },
@@ -24,8 +23,6 @@
         "description": "Related to factory info",
         "color": "c2e0c6",
         "keywords": [
-          "工厂",
-          "厂商",
           "factory"
         ]
       },
@@ -34,8 +31,6 @@
         "description": "Related to logistical info",
         "color": "c2e0c6",
         "keywords": [
-          "物流",
-          "货运",
           "logistical"
         ]
       },
@@ -44,8 +39,6 @@
         "description": "Related to hotel info",
         "color": "c2e0c6",
         "keywords": [
-          "酒店",
-          "宾馆",
           "hotel"
         ]
       },
@@ -54,9 +47,6 @@
         "description": "Related to donation info",
         "color": "c2e0c6",
         "keywords": [
-          "捐款",
-          "捐助",
-          "基金会",
           "donation"
         ]
       },
@@ -65,9 +55,6 @@
         "description": "Related to clinic info",
         "color": "c2e0c6",
         "keywords": [
-          "义诊",
-          "门诊",
-          "咨询",
           "clinic"
         ]
       },
@@ -76,8 +63,6 @@
         "description": "Related to news info",
         "color": "c2e0c6",
         "keywords": [
-          "新闻",
-          "动态",
           "news"
         ]
       }
