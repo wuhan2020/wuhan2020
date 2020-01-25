@@ -1,6 +1,6 @@
 {
     "name": "wuhan2020",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "AGPL-3.0",
     "author": "shiy2008@gmail.com",
     "description": "针对 2020 新冠病毒疫情中的武汉援助信息网站",
@@ -14,7 +14,7 @@
     },
     "main": "source/index.html",
     "dependencies": {
-        "boot-cell": "^0.23.2",
+        "boot-cell": "^0.24.0",
         "browser-unhandled-rejection": "^1.0.2",
         "cell-router": "^2.0.0-rc.6",
         "classnames": "^2.2.6",
@@ -23,9 +23,11 @@
         "web-cell": "^2.0.0-rc.15"
     },
     "devDependencies": {
+        "cross-env": "^6.0.3",
         "husky": "^4.2.1",
         "lint-staged": "^10.0.2",
         "parcel-bundler": "^1.12.4",
+        "parcel-plugin-text": "^0.9.5",
         "prettier": "^1.19.1",
         "typescript": "^3.7.5",
         "workbox-cli": "^4.3.1"
@@ -39,10 +41,15 @@
             "prettier --write"
         ]
     },
+    "parcel-plugin-text": {
+        "extensions": [
+            "csv"
+        ]
+    },
     "scripts": {
         "test": "lint-staged",
         "start": "rm -rf dist/  &&  parcel source/index.html --open",
-        "pack-dist": "parcel build source/index.html --public-url .",
+        "pack-dist": "cross-env NODE_ENV=production  parcel build source/index.html --public-url .",
         "pack-sw": "rm -f dist/sw.js.map  &&  workbox generateSW",
         "build": "rm -rf dist/  &&  npm run pack-dist  &&  npm run pack-sw"
     },
