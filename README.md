@@ -57,5 +57,9 @@
 
 具体数据信息请点击[这里](data/NEWS.csv)
 
+# 贡献指南
+
+请点击[这里](./CONTRIBUTION.md)
+
 [1]: https://david-dm.org/EasyWebApp/wuhan2020
 [2]: https://travis-ci.com/EasyWebApp/wuhan2020

@@ -2,7 +2,7 @@ import { createCell, Fragment } from 'web-cell';
 import { parseTextTable } from 'boot-cell/source/utility';
 import { Table } from 'boot-cell/source/Content/Table';
 
-import data from '../../data/HOSPITAL.csv';
+import list from '../../data/Hospital.yml';
 
 interface Contact {
     name: string;
@@ -14,22 +14,10 @@ interface Hospital {
     url: string;
     address: string;
     size: number;
-    supplies: string | string[];
-    contact?: string | Contact[];
+    supplies: string[];
+    contact?: Contact[];
     remark: string;
 }
-
-const list = parseTextTable(data, true).map(
-    ({ contact, supplies = '', ...rest }: Hospital) => ({
-        ...rest,
-        supplies: (supplies as string).split(';'),
-        contact: (contact as string)?.split(';').map(item => {
-            const [name, ...numbers] = item.split('|');
-
-            return { name, numbers };
-        })
-    })
-);
 
 function HospitalItem({
     name,
@@ -55,7 +43,7 @@ function HospitalItem({
             <td>{size}</td>
             <td className="text-left">
                 <ol>
-                    {(supplies as string[]).map(item => (
+                    {supplies.map(item => (
                         <li>{item}</li>
                     ))}
                 </ol>
