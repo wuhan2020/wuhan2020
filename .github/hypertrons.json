@@ -87,19 +87,14 @@
     "version": 1,
     "roles": [
       {
-        "name": "committer",
-        "description": "Committer of the project",
-        "users": [
-          "frank-zsy",
-          "will-ww"
-        ],
-        "commands": []
-      },
-      {
         "name": "replier",
         "description": "Replier is responsible for reply issues in time",
         "users": [
-          "frank-zsy"
+          "frank-zsy",
+          "zhangliqing",
+          "JerryKuan",
+          "sunshinemingo",
+          "bifenglin"
         ],
         "commands": []
       },
@@ -108,7 +103,11 @@
         "description": "After approvers' approve, pulls should be merged automatically",
         "users": [
           "frank-zsy",
-          "will-ww"
+          "will-ww",
+          "zhangliqing",
+          "JerryKuan",
+          "sunshinemingo",
+          "bifenglin"
         ],
         "commands": [
           "/approve"
