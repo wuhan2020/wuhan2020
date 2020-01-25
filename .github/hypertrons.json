@@ -11,7 +11,7 @@
         "color": "008672"
       },
       {
-        "name": "kind/hospital",
+        "name": "area/hospital",
         "description": "Related to hospital info",
         "color": "c2e0c6",
         "keywords": [
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "name": "kind/factory",
+        "name": "area/factory",
         "description": "Related to factory info",
         "color": "c2e0c6",
         "keywords": [
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "kind/logistical",
+        "name": "area/logistical",
         "description": "Related to logistical info",
         "color": "c2e0c6",
         "keywords": [
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "kind/hotel",
+        "name": "area/hotel",
         "description": "Related to hotel info",
         "color": "c2e0c6",
         "keywords": [
@@ -50,7 +50,7 @@
         ]
       },
       {
-        "name": "kind/donation",
+        "name": "area/donation",
         "description": "Related to donation info",
         "color": "c2e0c6",
         "keywords": [
@@ -61,7 +61,7 @@
         ]
       },
       {
-        "name": "kind/clinic",
+        "name": "area/clinic",
         "description": "Related to clinic info",
         "color": "c2e0c6",
         "keywords": [
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "name": "kind/news",
+        "name": "area/news",
         "description": "Related to news info",
         "color": "c2e0c6",
         "keywords": [
