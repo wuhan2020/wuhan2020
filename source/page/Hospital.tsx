@@ -1,6 +1,7 @@
+import * as clipboard from 'clipboard-polyfill';
 import { createCell, Fragment } from 'web-cell';
-import { parseTextTable } from 'boot-cell/source/utility';
 import { Table } from 'boot-cell/source/Content/Table';
+import { Button } from 'boot-cell/source/Form/Button';
 
 import list from '../../data/Hospital.yml';
 
@@ -23,7 +24,6 @@ function HospitalItem({
     name,
     url,
     address,
-    size,
     supplies = [],
     contact,
     remark
@@ -39,8 +39,11 @@ function HospitalItem({
                     name
                 )}
             </td>
-            <td>{address}</td>
-            <td>{size}</td>
+            <td>
+                <Button onClick={() => clipboard.writeText(address)}>
+                    复制
+                </Button>
+            </td>
             <td className="text-left">
                 <ol>
                     {supplies.map(item => (
@@ -83,7 +86,6 @@ export function HospitalPage() {
                     <tr>
                         <th>名称</th>
                         <th>地址</th>
-                        <th>规模</th>
                         <th>急需物资</th>
                         <th>联系方式</th>
                         <th>备注</th>
