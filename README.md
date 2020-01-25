@@ -36,6 +36,8 @@
 
 各类平台捐款方式，保证捐款信息的有效性。捐款发起方、捐款方式、官方链接、联系方式、当前状态等。
 
+海外捐赠信息汇总：[网站](https://anti-wuhan-virus.github.io/donation-info-overseas/)，[GitHub](https://github.com/Anti-Wuhan-Virus/donation-info-overseas)
+
 具体数据信息请点击[这里](DONATION.csv)
 
 ## 预防与治疗
