@@ -17,7 +17,6 @@ wuhan2020开源项目收集经过审核与确认过的武汉新型冠状病毒�
 * documentation: 文档相关
 * test: 测试用例相关
 
-如: `[bug] 课程列表加载失败`, 相关负责人会确认 `issue` ，更新合适的标签，关联 `milestone`，指派开发者。
 
 ## 代码提交
 ### 1、克隆到本地仓库
@@ -25,12 +24,12 @@ wuhan2020开源项目收集经过审核与确认过的武汉新型冠状病毒�
 
 2、将自己账号下的该仓库 `clone` 到本地，如：
 ```bash
-$ git clone git@code.kfcoding.com:xxx/edu-web.git 
+$ git clone git@github.com:XXX/wuhan2020.git
 ```
 
 3、关联上游仓库
 ```bash
-$ git remote add upstream git@code.kfcoding.com:kfcampus/edu-web.git 
+$ git remote add upstream git@github.com:wuhan2020/wuhan2020.git
 ```
 
 ### 2、本地开发
@@ -105,8 +104,6 @@ $ git commit --amend
 $ git push -f origin my-fix-branch 
 ```
 
-That's it! Thank you for your contribution!
-
 #### 5、当你的代码合并时出现冲突，你可以（可选）：
 * 同步上游仓库变更，因为有其他人先于你提交到上游仓库
 ```bash
@@ -150,24 +147,6 @@ git push origin --delete my-fix-branch
 ```bash
 git push origin --delete my-fix-branch
 ```
-
-
-## 常见问题
-### 为什么我 `git push -f origin master` 时报错？
-`gitlab` 默认为 `master` 开启分支保护，因此无法 `force push`。
-
-关闭路径； `Settings ` > `Repository` > `Protected Branches` > 找到 `master`, 点击 `Unprotected`.
- 
-#### 为什么我 fork 该项目并提交代码到我自己仓库时，也会触发 CI/CD ，并且显示 `pending` 并最终失败? 怎么关闭？
-该项目中有 `.gitlab-ci.yml` 文件，当 `push` 代码时，会触发gitlab 会自动跑 CI/CD ，但由于自己的项目中没有配置 `runner`, 所以会显示 `pending` 并最终失败。
-
-关闭路径：`Settings` > `General` > `Visibility, project features, permissions` > `Repository` > `Pipelines` 关闭保存。
-
-#### 为什么我自己仓库的项目变更时，slack 也会收到通知？怎么关闭？
-目前在 `code.kfcoding.com` 中新建的项目（包括 fork ），默认会开启 Slack notifications， 通知到 Slack 的 `infrastructure` 频道。
-
-关闭路径：项目的 `Settings ` > `Integrations `, 在 `Project services` 中有一个 `Slack notifications`, 点进去以后取消勾选 `Active` 保存。
-
 
 # csv 文件编辑指南
 **逗号分隔值（Comma-Separated Values，CSV）**，其文件以纯文本形式存储表格数据（数字和文本），文件的每一行都是一个数据记录。每个记录由一个或多个字段组成，用**逗号( ```,``` )**分隔。
