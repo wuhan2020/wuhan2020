@@ -6,6 +6,7 @@ import { NavBar } from 'boot-cell/source/Navigator/NavBar';
 import { history } from '../model';
 import { HomePage } from './Home';
 import { HospitalPage } from './Hospital';
+import { LogisticsPage } from './Logistics';
 
 @observer
 @component({
@@ -16,7 +17,8 @@ export class PageRouter extends HTMLRouter {
     protected history = history;
     protected routes = [
         { paths: [''], component: HomePage },
-        { paths: ['hospital'], component: HospitalPage }
+        { paths: ['hospital'], component: HospitalPage },
+        { paths: ['logistics'], component: LogisticsPage }
     ];
 
     menu = [
@@ -27,6 +29,10 @@ export class PageRouter extends HTMLRouter {
         {
             title: '医院',
             href: 'hospital'
+        },
+        {
+            title: '物流',
+            href: 'logistics'
         },
         {
             title: '开放源代码',

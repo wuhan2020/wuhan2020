@@ -18,6 +18,7 @@
         "browser-unhandled-rejection": "^1.0.2",
         "cell-router": "^2.0.0-rc.6",
         "classnames": "^2.2.6",
+        "clipboard-polyfill": "^2.8.6",
         "mobx": "^5.15.3",
         "mobx-web-cell": "^0.2.5",
         "web-cell": "^2.0.0-rc.15"
@@ -27,7 +28,6 @@
         "husky": "^4.2.1",
         "lint-staged": "^10.0.2",
         "parcel-bundler": "^1.12.4",
-        "parcel-plugin-text": "^0.9.5",
         "prettier": "^1.19.1",
         "typescript": "^3.7.5",
         "workbox-cli": "^4.3.1"
@@ -47,11 +47,6 @@
     "lint-staged": {
         "*.{html,md,less,js,json,yml,ts,tsx}": [
             "prettier --write"
-        ]
-    },
-    "parcel-plugin-text": {
-        "extensions": [
-            "csv"
         ]
     },
     "scripts": {
