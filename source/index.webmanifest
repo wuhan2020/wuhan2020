@@ -12,8 +12,8 @@
   "background_color": "transparent",
   "icons": [
     {
-      "src": "image/WuHan-love.jpg",
-      "type": "image/jpeg",
+      "src": "image/WuHan-love.png",
+      "type": "image/png",
       "sizes": "256x256"
     }
   ]
