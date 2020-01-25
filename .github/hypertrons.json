@@ -1,0 +1,170 @@
+{
+  "label_setup": {
+    "version": 1,
+    "labels": [
+      {
+        "__merge__": true
+      },
+      {
+        "name": "pull/approved",
+        "description": "If a pull is approved, it will be automatically merged",
+        "color": "008672"
+      },
+      {
+        "name": "kind/hospital",
+        "description": "Related to hospital info",
+        "color": "c2e0c6",
+        "keywords": [
+          "医院",
+          "hospital"
+        ]
+      },
+      {
+        "name": "kind/factory",
+        "description": "Related to factory info",
+        "color": "c2e0c6",
+        "keywords": [
+          "工厂",
+          "厂商",
+          "factory"
+        ]
+      },
+      {
+        "name": "kind/logistical",
+        "description": "Related to logistical info",
+        "color": "c2e0c6",
+        "keywords": [
+          "物流",
+          "货运",
+          "logistical"
+        ]
+      },
+      {
+        "name": "kind/hotel",
+        "description": "Related to hotel info",
+        "color": "c2e0c6",
+        "keywords": [
+          "酒店",
+          "宾馆",
+          "hotel"
+        ]
+      },
+      {
+        "name": "kind/donation",
+        "description": "Related to donation info",
+        "color": "c2e0c6",
+        "keywords": [
+          "捐款",
+          "捐助",
+          "基金会",
+          "donation"
+        ]
+      },
+      {
+        "name": "kind/clinic",
+        "description": "Related to clinic info",
+        "color": "c2e0c6",
+        "keywords": [
+          "义诊",
+          "门诊",
+          "咨询",
+          "clinic"
+        ]
+      },
+      {
+        "name": "kind/news",
+        "description": "Related to news info",
+        "color": "c2e0c6",
+        "keywords": [
+          "新闻",
+          "动态",
+          "news"
+        ]
+      }
+    ]
+  },
+  "role": {
+    "version": 1,
+    "roles": [
+      {
+        "name": "committer",
+        "description": "Committer of the project",
+        "users": [
+          "frank-zsy",
+          "will-ww"
+        ],
+        "commands": []
+      },
+      {
+        "name": "replier",
+        "description": "Replier is responsible for reply issues in time",
+        "users": [
+          "frank-zsy"
+        ],
+        "commands": []
+      },
+      {
+        "name": "approver",
+        "description": "After approvers' approve, pulls should be merged automatically",
+        "users": [
+          "frank-zsy",
+          "will-ww"
+        ],
+        "commands": [
+          "/approve"
+        ]
+      },
+      {
+        "name": "author",
+        "description": "Author of the issue or pull",
+        "users": [],
+        "commands": []
+      },
+      {
+        "name": "notauthor",
+        "description": "Not author of the issue or pull",
+        "users": [],
+        "commands": [
+          "/approve"
+        ]
+      },
+      {
+        "name": "anyone",
+        "description": "Anyone",
+        "users": [],
+        "commands": [
+          "/self-assign"
+        ]
+      }
+    ]
+  },
+  "command": {
+    "version": 1,
+    "commands": [
+      {
+        "name": "/approve",
+        "scopes": [
+          "review",
+          "review_comment",
+          "pull_comment"
+        ]
+      }
+    ]
+  },
+  "approve": {
+    "version": 1
+  },
+  "auto_merge": {
+    "version": 1,
+    "sched": "0 */5 * * * *"
+  },
+  "issue_reminder": {
+    "version": 1
+  },
+  "auto_label": {
+    "version": 1
+  },
+  "self_assign": {
+    "version": 1
+  }
+}
