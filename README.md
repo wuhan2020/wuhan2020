@@ -64,6 +64,10 @@
 
 请点击[这里](./CONTRIBUTION.md)
 
+# FAQ常见问题 （持续更新，招募志愿者一起维护）
+
+请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+
 # Slack 交流群组
 
 点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
