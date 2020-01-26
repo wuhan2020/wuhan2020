@@ -31,39 +31,27 @@
 
 ### 医院
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)。
-
-具体数据信息请点击[这里](data/hospital.yml)。
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)。
 
 ## 酒店
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/ )。
-
-具体数据信息请点击[这里](data/hotel.csv)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/ )。
 
 ### 物流
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)。
-
-具体数据信息请点击[这里](data/logistics.yml)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)。
 
 ### 生产
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/ )。
-
-具体数据信息请点击[这里](data/factory.csv)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/ )。
 
 ### 捐赠
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)。
-
-具体数据信息请点击[这里](data/donation.csv)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)。
 
 ### 义诊
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
-
-具体数据信息请点击[这里](data/clinic.csv)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
 
 ## 贡献指南
 
