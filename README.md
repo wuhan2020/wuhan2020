@@ -63,3 +63,7 @@
 # 贡献指南
 
 请点击[这里](./CONTRIBUTION.md)
+
+# Slack 交流群组
+
+点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
