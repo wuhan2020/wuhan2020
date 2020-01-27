@@ -57,6 +57,8 @@
 
 请点击[这里](./CONTRIBUTION.md)
 
+## 信息收集指南
+请点击[这里](./INFORMATION_GUIDE.md)
 
 # Slack 交流群组
 为方便项目的具体细节交流与内部协作，我们已经设立了[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)，已建立前端、后端、数据同步等对应 channel。
