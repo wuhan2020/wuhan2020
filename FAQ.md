@@ -22,39 +22,20 @@ Slack邀请链接：
 
 A：除了默认的general频道，还有:
 
-问题及建议提交频道（Github机器人自动监测更新）：
-
-#anti-2019-ncov
-
-前端web页面开发频道：
-
-#front-pages
-
-数据可视化频道：
-
-#map-visualization
-
-API设计开发频道（Python）：
-
-#api-server
-
-数据同步频道（TS）：
-
-#data-sync
+* 问题及建议提交频道（Github机器人自动监测更新）： #anti-2019-ncov
+* 前端web页面开发频道： #front-pages
+* 数据可视化频道： #map-visualization
+* API设计开发频道（Python）： #api-server
+* 数据同步频道（TS）： #data-sync
 
 数据录入相关频道：
 
-医院信息 #data-hospital
-
-酒店信息 #data-hotel
-
-物流信息 #data-logistical
-
-生产信息 #data-factory
-
-捐赠信息 #data-donation
-
-义诊信息 #data-clinic
+* 医院 #data-hospital
+* 酒店 #data-hotel
+* 物流 #data-logistical
+* 生产 #data-factory
+* 捐赠 #data-donation
+* 义诊 #data-clinic
 
 **Q：如果我不太会技术，可以怎么做贡献？**
 

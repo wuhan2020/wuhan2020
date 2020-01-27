@@ -4,7 +4,12 @@
 
 该仓库为数据主仓，所有数据由脚本自动提交导入，**_请不要在该仓库中直接提交数据信息_**，具体数据提交渠道，请参考该文档。
 
-# 协作流程
+## Web 前端
+
+- 代码仓库：https://github.com/wuhan2020/wuhan2020.github.io
+- 正式环境：https://wuhan2020.github.io/
+
+## 协作流程
 
 本平台为方便大家协作，构建如下协作流程
 
@@ -12,7 +17,7 @@
 
 启动信息人工审核与数据合入需要由人工进行二次审核，其他部分均为自动化完成，不应需要人工介入。
 
-# 数据分类
+## 数据分类
 
 本平台收集信息包含如下几类信息，请分别申报填写。
 
@@ -24,50 +29,45 @@
 
 由于参与人员较多，不开放所有人员的编辑权限，请在[这里](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)填写申请，会定向邀请到特定表单中进行信息录入。
 
-## 医院
+### 医院
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)。
-
-具体数据信息请点击[这里](data/hospital.yml)。
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)。
 
 ## 酒店
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/ )。
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/ )。
 
-具体数据信息请点击[这里](data/hotel.csv)
+### 物流
 
-## 物流
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)。
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)。
+### 生产
 
-具体数据信息请点击[这里](data/logistics.yml)
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/ )。
 
-## 生产
+### 捐赠
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/ )。
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)。
 
-具体数据信息请点击[这里](data/factory.csv)
+### 义诊
 
-## 捐赠
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
 
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)。
-
-具体数据信息请点击[这里](data/donation.csv)
-
-## 义诊
-
-具体数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
-
-具体数据信息请点击[这里](data/clinic.csv)
-
-# 贡献指南
+## 贡献指南
 
 请点击[这里](./CONTRIBUTION.md)
 
+## 信息收集指南
+请点击[这里](./INFORMATION_GUIDE.md)
+
+# Slack 交流群组
+点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
+
+欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
+
 # FAQ常见问题 （持续更新，招募志愿者一起维护）
+
+已经整理好的FAQ，[请查看](./FAQ.md)
 
 请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
-# Slack 交流群组
-
-点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
