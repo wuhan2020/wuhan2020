@@ -61,9 +61,15 @@
 请点击[这里](./INFORMATION_GUIDE.md)
 
 # Slack 交流群组
-为方便项目的具体细节交流与内部协作，我们已经设立了[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)，已建立前端、后端、数据同步等对应 channel。
+点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
+
+# FAQ常见问题 （持续更新，招募志愿者一起维护）
+
+已经整理好的FAQ，[请查看](./FAQ.md)
+
+请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
 # 其他开源项目，友情链接
 
