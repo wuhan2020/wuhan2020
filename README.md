@@ -64,3 +64,8 @@
 为方便项目的具体细节交流与内部协作，我们已经设立了[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)，已建立前端、后端、数据同步等对应 channel。
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
+
+# 其他开源项目，友情链接
+
+* [2019-nCoV 疫情信息导航](http://nav.werty.cn/)
+    * 开源地址： https://github.com/wertycn/nCoV
