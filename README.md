@@ -59,6 +59,7 @@
 ## 信息收集指南
 请点击[这里](./INFORMATION_GUIDE.md)
 
+
 # Slack 交流群组
 点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
@@ -66,7 +67,8 @@
 
 # FAQ常见问题 （持续更新，招募志愿者一起维护）
 
-已经整理好的FAQ，[请查看](./FAQ.md)
+已经整理整个项目的FAQ，[请查看](./FAQ.md)
+信息组FAQ，[请查看]（https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
 请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
