@@ -54,7 +54,7 @@
 
 ## 贡献指南
 
-请点击[这里](./CONTRIBUTION.md)
+请点击[这里](./CONTRIBUTING.md)
 
 ## 信息收集指南
 请点击[这里](./INFORMATION_GUIDE.md)
