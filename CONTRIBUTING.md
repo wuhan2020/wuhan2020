@@ -1,4 +1,5 @@
 <!-- TOC -->
+# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING_EN.md)
 
 - [贡献指南](#贡献指南)
   - [我要提交数据信息](#我要提交数据信息)

@@ -24,7 +24,6 @@ Translation: *[English](README_EN.md)*
 
 - 代码仓库：https://github.com/wuhan2020/WebApp
 - 正式环境：https://wuhan2020.kaiyuanshe.cn/
-- 后端服务：https://github.com/wuhan2020/rest-api
 
 ### API 服务
 
