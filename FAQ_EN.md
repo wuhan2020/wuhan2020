@@ -59,3 +59,6 @@ A：When suggesting possible improvements, please try your best to include any p
 **Q：Why was my issue closed?**
 
 A：Issues will be closed after they have been solved. Repetitive issues or unprofessional issues will also be closed. 
+
+---
+Author: [@Lili]() , Proofreader: [@JoeZijunZhou](https://github.com/JoeZijunZhou)

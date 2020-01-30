@@ -69,3 +69,6 @@ Welcome to join us to explore all kinds of technical and non-technical issues, l
 FAQ arranged，[click here](./FAQ.md)
 
 请点击[Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+
+---
+Author: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
