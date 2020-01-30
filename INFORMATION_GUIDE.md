@@ -1,3 +1,5 @@
+# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/INFORMATION_GUIDE_EN.md)
+
 # 信息收集指南
 
 本平台收集的信息包含如下几类信息，并成立信息组。

@@ -1,3 +1,5 @@
+# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/FAQ_EN.md)
+
 # FAQ常见问题
 
 ## 项目运作类
