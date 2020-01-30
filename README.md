@@ -1,3 +1,5 @@
+Translation: *[English](README_EN.md)*
+
 # 武汉新型冠状病毒防疫信息收集平台
 
 针对 2020 年初在武汉爆发的新型冠状病毒疫情，本项目旨在收集各医院、酒店、工厂、物流、捐赠、捐款、预防、治疗、动态等信息，统一收集，统一发布，以便各方之间进行信息互通，有效调配社会资源。
@@ -18,10 +20,10 @@
 
 - 代码仓库： https://github.com/wuhan2020/data-sync
 
-### Web 前端
+### 渐进式 Web 应用
 
-- 代码仓库：https://github.com/wuhan2020/wuhan2020.github.io
-- 正式环境：https://wuhan2020.github.io/
+- 代码仓库：https://github.com/wuhan2020/WebApp
+- 正式环境：https://wuhan2020.kaiyuanshe.cn/
 
 ### API 服务
 
@@ -45,12 +47,16 @@
 
 ### 石墨文档地址：
 
-- [医院](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)
+- [医院](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/ )
 - [酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
 - [物流](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)
 - [生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
+- [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
+
+如果你想新开表单，请填写[新开表单申请]（https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）
+
 
 ## 贡献指南
 
@@ -59,14 +65,16 @@
 ## 信息收集指南
 请点击[这里](./INFORMATION_GUIDE.md)
 
+
 # Slack 交流群组
-点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
+点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
 
 # FAQ常见问题 （持续更新，招募志愿者一起维护）
 
-已经整理好的FAQ，[请查看](./FAQ.md)
+已经整理整个项目的FAQ，[请查看](./FAQ.md)
+
+信息组FAQ，[请查看](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
 请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
-

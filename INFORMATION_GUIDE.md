@@ -1,3 +1,6 @@
+Translation: *[English](INFORMATION_GUIDE_EN.md)*
+
+
 # 信息收集指南
 
 本平台收集的信息包含如下几类信息，并成立信息组。
@@ -42,3 +45,6 @@
 
 数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
 
+### 在外武汉游客住宿信息
+
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)。
