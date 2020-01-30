@@ -37,7 +37,7 @@
 - 代码仓库：https://github.com/wuhan2020/shimo-sheet2json
 
 # 我是志愿者，希望一起维护项目
-## 我是数据提交志愿者，使用石墨文档（可通过微信群交流）
+## 我是数据提交志愿者，使用石墨文档
 
 本平台收集信息包含如下几类数据提交的信息，请分别申报填写。
 
@@ -55,7 +55,7 @@
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 - [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
-具体细节包括微信群二维码可以参见[这里](./INFORMATION_GUIDE.md)。
+具体细节可以参见[这里](./INFORMATION_GUIDE.md)。
 
 ## 我是开发相关志愿者，使用GitHub
 
