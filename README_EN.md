@@ -3,11 +3,11 @@
 For the Pneumonia Caused by the Novel Coronavirus (2019-nCoV) broke out in early 2020 in Wuhan, Hubei, China, the project aims to collect information of hospitals, hotels, factories, logistics, donations, contributions, prevention, treatment, and other dynamic information regarding national epidemic prevention, all of this will be collected to release to public 
 We designed to enable information exchange between all parties about the epidemic and effective social resources allocation . 
 
-This data warehouse is the main one this is the main repository, and all data is submitted and imported by the script automatically, **_ Please do not submit data directly in this warehouse repository_**. For specific data submission channels, please refer to this document.
+This is the main repository, and all data is submitted and imported by the script automatically, **_ Please do not submit data directly in this repository_**. For specific data submission channels, please refer to this document.
 
 ## Collaboration process
 
-This platform is to facilitate cooperation and establishing we established the collaborative process as follows:
+This platform is to facilitate cooperation we established the collaborative process as follows:
 
 ![img](http://www.plantuml.com/plantuml/png/RP31Jkf068NtynIJkMiImf85uQxGdT4d6DfH6akRj5EDEqb4H2MO420HerOn4arQZT5e0NcPcIckU0NR3bqOtJKzttyotodQ55lKgUg0QbGdSDUfO2ENpMKXRxNPz4AyriBH2G1OeQO57PjODiGsHABx95gUQ9-npy5ylxwO7B7nc4sxB0WMaoQ2_zQ92XHJrub2DTEmeLtHgcPo6bwzy9kHw3M4UukMnTXHDPgat7F5zJkVzSN1B2gEcaeM8GPGCSLbR1EufT6AKqxOaaPNea_v5ZRkyA23036eHlTW6IlRn50Jxl_QAjmWrWwnqhgKshHCWwOORxR2H__B_GW7tjz2G0wGAKYTF4HivegQ7-yG316G6fbVUMpaNI8WHuXpQH41Cf8Ozyv5_stUUE378-vFUFqE0I39-2XrogVpIrwIop_n0gbwfY3zVfoq_Vdz8J_jyUTkE0mGA4QfKzM_0G00)
 
