@@ -1,7 +1,7 @@
 # Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention
 
 For the Pneumonia Caused by the Novel Coronavirus (2019-nCoV) broke out in early 2020 in Wuhan, Hubei, China, the project aims to collect information of hospitals, hotels, factories, logistics, donations, contributions, prevention, treatment, and other dynamic information regarding national epidemic prevention, all of this will be collected to release to public 
-We designed to enable information exchange between all parties about the epidemic and effective social resources allocation . 
+We designed to enable information exchange between all parties and effective social resources allocation . 
 
 This is the main repository, and all data is submitted and imported by the script automatically, **_ Please do not submit data directly in this repository_**. For specific data submission channels, please refer to this document.
 
