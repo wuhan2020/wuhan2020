@@ -46,13 +46,17 @@
 
 ### 石墨文档地址：
 
-- [医院](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)
+- [医院](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/ )
 - [酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
 - [物流](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)
 - [生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
+<<<<<<< HEAD
 - [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
+=======
+如果你想新开表单，请填写[新开表单申请]（https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）
+>>>>>>> 更新readme石墨文档地址医院
 
 ## 贡献指南
 
