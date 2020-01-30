@@ -1,4 +1,4 @@
-Translation: *[English](README.md)*
+Translation: *[English](README_EN.md)*
 
 # 武汉新型冠状病毒防疫信息收集平台
 
