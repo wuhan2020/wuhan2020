@@ -52,6 +52,7 @@
 - [生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
+- [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
 ## 贡献指南
 
