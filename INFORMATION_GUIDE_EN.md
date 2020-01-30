@@ -41,4 +41,4 @@ Please refer to [this shimo document](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
 Please refer to [this shimo document](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 
 
- *Trasnlator Leon, Rae.
+ *Trasnlator: Leon, Rae.
