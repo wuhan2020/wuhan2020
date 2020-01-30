@@ -52,11 +52,10 @@
 - [生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
-<<<<<<< HEAD
 - [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
-=======
+
 如果你想新开表单，请填写[新开表单申请]（https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）
->>>>>>> 更新readme石墨文档地址医院
+
 
 ## 贡献指南
 
