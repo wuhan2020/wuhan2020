@@ -42,3 +42,6 @@
 
 数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
 
+### 在外武汉游客住宿信息
+
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)。
