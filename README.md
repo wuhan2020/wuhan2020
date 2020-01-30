@@ -69,6 +69,7 @@
 # FAQ常见问题 （持续更新，招募志愿者一起维护）
 
 已经整理整个项目的FAQ，[请查看](./FAQ.md)
-信息组FAQ，[请查看]（https://shimo.im/docs/JqX9CvrqphPV9T3J/)
+
+信息组FAQ，[请查看](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
 请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
