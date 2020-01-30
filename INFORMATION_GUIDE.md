@@ -1,4 +1,5 @@
-# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/INFORMATION_GUIDE_EN.md)
+Translation: *[English](INFORMATION_GUIDE_EN.md)*
+
 
 # 信息收集指南
 
@@ -44,3 +45,6 @@
 
 数据提交途径，请到[石墨文档](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/ )。
 
+### 在外武汉游客住宿信息
+
+数据提交途径，请到[石墨文档](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)。
