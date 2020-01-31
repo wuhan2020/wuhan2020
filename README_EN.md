@@ -1,3 +1,5 @@
+[简体中文](./README.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md)
+
 # Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention
 This translation updates to 18:30(CST), 1/30/2020.
 
