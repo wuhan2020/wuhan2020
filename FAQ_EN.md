@@ -38,7 +38,7 @@ Data entry-related channels are as follows:
 
 **Q：If I lack in technical skill, how can I contribute to Wuhan2020?**
 
-**A：** We are currently looking for UI exchange design personnel, file management and maintenance personnel, project management personnel. Furthermore, we are also in need of data entry personnel, which requires minimal computer skills.
+A：We are currently looking for UI exchange design personnel, file management and maintenance personnel, project management personnel. Furthermore, we are also in need of data entry personnel, which requires minimal computer skills.
 
 **Q：What can we do to start working in data entry for Whan2020?**
 
@@ -46,7 +46,7 @@ A：Since we have a great number of volunteers who expressed interest in this pr
 
 **Q：What kind of data are we working with?**
 
-A： We work with organizing and compiling certified information from official websites. Sources of information include but are not limited to: official government statements, official media statements, hospital data, and industrial data. We are not considering non-certified information from any sources. 
+A：We work with organizing and compiling certified information from official websites. Sources of information include but are not limited to: official government statements, official media statements, hospital data, and industrial data. We are not considering non-certified information from any sources. 
 
 ## Functional suggestions: 
 
