@@ -8,7 +8,7 @@ web应用下载地址： https://github.com/wuhan2020/WebApp.git  -- web
 数据同步服务：https://github.com/wuhan2020/data-sync.git  -- data
 Json数据储存服务：https://github.com/wuhan2020/shimo-sheet2json.git --json
 
-#开发程序员下载流程
+#开发程序员/测试 下载流程
 `git clone *** ` 
 
 #### 拷贝不同repo到本地，最好每个issue创建自己不同branch，以项目名称开头创建分支，例如：

@@ -8,8 +8,8 @@ web application： https://github.com/wuhan2020/WebApp.git  -- web
 data simulation：https://github.com/wuhan2020/data-sync.git  -- data
 Json data storage：https://github.com/wuhan2020/shimo-sheet2json.git --json
 
-#Developer/Tester git clone process
-`git clone *** `  
+#Developer/QA git clone process
+`git clone *** `
 
 #### copy various repos to local，create branches according issues with your own name and project name, start with fixed prefix，for an example：
 `用Python爬取最新疫情数据`, `allocated to centurion-crawler` with utilizing 
