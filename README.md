@@ -1,5 +1,7 @@
 # 简体中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md)
 
+[![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=flat-square&colorB=red)](https://wuhan2020.github.io/)
+
 # 武汉新型冠状病毒防疫信息收集平台
 
 针对 2020 年初在武汉爆发的新型冠状病毒疫情，本项目旨在收集各医院、酒店、工厂、物流、捐赠、捐款、预防、治疗、动态等信息，统一收集，统一发布，以便各方之间进行信息互通，有效调配社会资源。
