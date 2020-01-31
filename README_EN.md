@@ -1,74 +1,95 @@
 # Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention
+This translation updates to 18:30(CST), 1/30/2020.
 
-For the Pneumonia Caused by the Novel Coronavirus (2019-nCoV) broke out in early 2020 in Wuhan, Hubei, China, the project aims to collect information of hospitals, hotels, factories, logistics, donations, contributions, prevention, treatment, and other dynamic information regarding national epidemic prevention, all of this will be collected to release to public 
-We designed to enable information exchange between all parties and effective social resources allocation . 
+This project aims at collecting and gathering information of hospitals, hotels, factories, logistics, donations, contributions, prevention, treatment and any live information regarding national epidemic prevention from reliable sources to help all affected people, organizations better communicate and coordinate with each other to efficiently and effectively fight against the Novel Coronavirus (2019-nCoV) outbreak that started in Wuhan, Hubei, China. All of the code will be open-source and the data collected will be carefully reviewed/validated and available to the public.
 
-This is the main repository, and all data is submitted and imported by the script automatically, **_ Please do not submit data directly in this repository_**. For specific data submission channels, please refer to this document.
+This repo works as the main data warehouse. All data you see here is imported automatically by scripts. **_ Please do NOT submit data directly to this repo_**. Please refer to other sections of this document for questions about data submission.
+
 
 ## Collaboration process
 
-This platform is to facilitate cooperation we established the collaborative process as follows:
+This platform has the following collaboration process:
 
-![img](http://www.plantuml.com/plantuml/png/RP31Jkf068NtynIJkMiImf85uQxGdT4d6DfH6akRj5EDEqb4H2MO420HerOn4arQZT5e0NcPcIckU0NR3bqOtJKzttyotodQ55lKgUg0QbGdSDUfO2ENpMKXRxNPz4AyriBH2G1OeQO57PjODiGsHABx95gUQ9-npy5ylxwO7B7nc4sxB0WMaoQ2_zQ92XHJrub2DTEmeLtHgcPo6bwzy9kHw3M4UukMnTXHDPgat7F5zJkVzSN1B2gEcaeM8GPGCSLbR1EufT6AKqxOaaPNea_v5ZRkyA23036eHlTW6IlRn50Jxl_QAjmWrWwnqhgKshHCWwOORxR2H__B_GW7tjz2G0wGAKYTF4HivegQ7-yG316G6fbVUMpaNI8WHuXpQH41Cf8Ozyv5_stUUE378-vFUFqE0I39-2XrogVpIrwIop_n0gbwfY3zVfoq_Vdz8J_jyUTkE0mGA4QfKzM_0G00)
+![img](https://yokii.cn/i/en.jpg)
 
-Except for the manual review of information, the other parts are processed automatically and not require manual process.
+All of the parts are processed automatically and won't require manual work except for the manual reviews and validations on the data/information.
 
-## Main Open Source Projects
+##  Major Open Source Sub-Projects
 
 ### Data Synchronization
 
-- Code repository： https://github.com/wuhan2020/data-sync
+- Codebase: https://github.com/wuhan2020/data-sync
 
 ### Web Front-end Development
 
-- Code repository：https://github.com/wuhan2020/wuhan2020.github.io
-- Formal environment：https://wuhan2020.github.io/
+- Codebase：https://github.com/wuhan2020/wuhan2020.github.io
+- Production environment：https://wuhan2020.github.io/
 
 ### API Service
 
-- Code repository：https://github.com/wuhan2020/api-server
+- Codebase：https://github.com/wuhan2020/api-server
 
 ### Map Visualization Components
 
-- Code repository：https://github.com/wuhan2020/map-viz
+- Codebase：https://github.com/wuhan2020/map-viz
 
 ### Online Form Editing Service(ShiMo) Synchronization Component
 
-- Code repository：https://github.com/wuhan2020/shimo-sheet2json
+- Codebase：https://github.com/wuhan2020/shimo-sheet2json
 
 ## Data Submission 
 
-The information collected by the platform includes the following types of data submission, please declare and fill in separately.
+The information collected by the platform includes the following types of data, please categorize and submit separately.
 
-This platform uses the online document service (shimo) to collect data, and the script periodically synchronizes the data to the data warehouse. Do not modify the data files directly in the warehouse.
+This platform uses the online document service [Shimo](https://shimo.im/welcome) (which is very similar to Google Docs) to collect and host data, and there is a cron script synchronizes the data to the data repo/warehouse. Please do NOT modify the data files directly in the repo/warehouse.
 
-Due to the large number of participants, the editing rights of all personnel are closed，please click [here](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill) to submit your application，we will send you a mail for entry.
-### Online Document Service(Shimo) Edit Link：
+Due to the large number of participants, the editing permission of all personnel are not granted by default，please click [here](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)to submit your application，we will send you an email for entry ASAP.
 
-- [HOSPITAL](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)
+### Online Document Service [Shimo](https://shimo.im/welcome) Edit Link：
+
+- [HOSPITAL](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/)
 - [HOTEL](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
 - [LOGISTICS](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)
-- [PRODUCTION](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
+- [MANUFACTURE](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [DONATION](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
-- [FREE CONSULTATION](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
+- [FREE/VOLUNTEER CLINICS](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 
 ## Contribution Guide
 
-Please click [here](./CONTRIBUTING.md)
+Please click [here](./CONTRIBUTING_EN.md)
 
-## Data and information Collection Guide
-Please click [here](./INFORMATION_GUIDE.md)
+## Data and Information Collection Guide
+Please click [here](./INFORMATION_GUIDE_EN.md)
 
 # Slack Communication Group
-Click here to join in [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
+Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
-Welcome to join us to explore all kinds of technical and non-technical issues, let us all work together and united to overcome the difficulties!
+## Slack Channel Navigation
+(It requires you to join the Slack Group first following the above link)
 
-# FAQ ( in progress…  stay tuned …)
+| Channel Name               | Pointer              |
+|----------------------------|----------------------|
+| Default Channel               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23anti--2019--ncov-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSS83MZUK)              |
+| General Info           | [![Github](https://img.shields.io/badge/Slack%20Channel-%23general-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSTGKFRCH)                       |
+| Team of Designers             | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--designer-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT70SHJQ0)                |
+| Team of Product Requirements/Management     | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--requirement--management-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT99VDWS2) |
+| Team of Frondend Folks            | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--frontend-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT93L48H5)                |
+| Team of Backend Folks             | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--backend-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT93MCEJK)                 |
+| Sub Project: Data Sync       | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--data--sync-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT4AV807P)              |
+| Sub Project: Web Front pages    | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--front--pages-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSTPXN533)            |
+| Sub Project: Map Visualizations | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--map--visualization-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT6HW3X8E)      |
+| Sub Project: API Server      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23api--server-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT3V5CDKJ)                   |
+| Collect Advise to the Officials       | [![Github](https://img.shields.io/badge/Slack%20Channel-%23help--advisement-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT7AABP53)              |
+| Team of Oversea Folks               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
+| Team of Slack Channel Operations      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
-FAQ arranged，[click here](./FAQ.md)
+Welcome to join together to explore all kinds of technical and non-technical issues, let's all work together and united to overcome the difficulties and fight against the virus!
 
-请点击[Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+FAQ arranged，[click here](./FAQ.md).
+
+FAQ of Technology Group, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
+
+Follow [Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
 ---
 Author: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
