@@ -85,4 +85,4 @@ FAQ sul gruppo di raccola informazioni: [clicca qui](https://shimo.im/docs/JqX9C
 Clicca qui: [Documento Shimo](https://shimo.im/docs/DdWvXvtvpxrqrJ83).
 
 ---
-Translator: [@Atena1118](https://github.com/Atena1118)
+Translator: [@Atena1118](https://github.com/Atena1118), proofreader: [@sciulli](https://github.com/sciulli)
