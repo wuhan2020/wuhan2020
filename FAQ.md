@@ -20,7 +20,7 @@ Slack邀请链接：
 
 [https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
 
-Slack上的详细分组见[这里](./README.md#Slack频道导航)。如果该链接失效，可以提交[Issue](https://github.com/wuhan2020/wuhan2020/issues/)告知我们。
+Slack上的详细分组见[这里](./README.md#Slack交流群组)。如果该链接失效，可以提交[Issue](https://github.com/wuhan2020/wuhan2020/issues/)告知我们。
 
 **Q：目前Slack上的频道有哪些？**
 
