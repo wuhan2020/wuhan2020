@@ -94,4 +94,4 @@ FAQ of Technology Group, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 Follow [Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
 ---
-Author: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
+Translator: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
