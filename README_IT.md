@@ -10,7 +10,7 @@ Questa è la repository principale, il caricamento di tutti i dati viene effettu
 
 Al fine di facilitare la collaborazione fra tutte le persone coinvolte, è stato stabilito il seguente processo di coordinamento:
 
-![img](https://yokii.cn/i/en.jpg)
+![img](https://yokii.cn/i/it.jpg)
 
 Tutte le parti del processo vengono effettuate automaticamente e non richiedono intervento manuale, ad accezione del controllo e validazione dei dati/informazioni.
 
