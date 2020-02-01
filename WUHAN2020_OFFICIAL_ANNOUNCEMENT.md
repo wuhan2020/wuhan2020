@@ -2,7 +2,7 @@
 
 # WUHAN2020 Official Announcement 2020.1.29
 
-Dear friends and volunteers, we are the core organizers of `wuhan2020`, a project on GitHub aiming to serve this combat against 2019-nCoV.  This is an Open Source project constructed and maintained by all of us for a better and more effective collaboration that assists the self-organized rescue.  The things we are working on:  
+Dear friends and volunteers, we are the core organizers of `wuhan2020`, a project on GitHub aiming to serve this combat against `2019 Novel Coronavirus` (2019-nCoV).  This is an Open Source project constructed and maintained by all of us for a better and more effective collaboration that assists the self-organized rescue.  The things we are working on:  
 
 1. to create a data service for real-time synchronization among hospitals, factories and procurement.
 2. to call on more people to participate in this project with their professional skills and various resources.
