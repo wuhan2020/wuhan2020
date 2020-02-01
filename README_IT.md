@@ -80,7 +80,7 @@ Invitiamo tutti a partecipare al gruppo su Slack per comunicare al meglio su que
 
 FAQ generiche sul progetto finora raccolte: [clicca qui](./FAQ.md).
 
-FAQ sul gruppo di raccola informazioni: [clicca qui](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
+FAQ sul gruppo di raccolta informazioni: [clicca qui](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 
 Clicca qui: [Documento Shimo](https://shimo.im/docs/DdWvXvtvpxrqrJ83).
 
