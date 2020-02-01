@@ -1,85 +1,88 @@
 *[简体中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano*
 
-# Informazioni Raccolte per la Prevenzione Epidemica di Wuhan 2019-nCoV
+# Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV
 
-Nei rigaurdi dell'esplosione in Cina della polmonite provocato dal Coronavirus nuovo, questo progetto tende allo scopo di raccogliere le informazioni su ospedali, alberghi, fabbriche, logistiche, donazioni, fondi, prevenzioni, rimedi e notizie, e allo scopo di facilitare lo scaimbio informativo e l'allocazione efficace di risorse sociale. 
+In relazione al focolaio di polmonite, ed altri sintomi, insorto in Cina all'inizio dell'anno 2020 in associazione alla diffusione di un nuovo tipo di coronavirus, il presente progetto ha l'obiettivo di raccogliere e diffondere informazioni riguardanti: strutture (ospedali, istituti sanitari, alberghi, ristoranti, impianti di produzione e confezionamento), logistica, contributi e donazioni, prevenzione e supporto medico, ed altre notizie, allo scopo di facilitare lo scambio informativo e l'impiego efficace ed efficiente di risorse sociali. 
 
-Questo è il deposito principale, l'importazione di tutti i dati viene fatta automaticamente dallo script,  **_non consegnare direttamente i dati a questo deposito_**, per ulteriori informazioni, per favore leggi questo documento.
+Questa è la repository principale, il caricamento di tutti i dati viene effettuato automaticamente tramite script,  **_non caricare direttamente i dati all'interno della repository_**, per ulteriori informazioni si prega di far riferimento alla presente documentazione.
 
-## Collaborazione
+## Processo di coordinamento
 
-Per la nostra meglio collaborazione, si stabilisce il seguente processo 
+Al fine di facilitare la collaborazione fra tutte le persone coinvolte, è stato stabilito il seguente processo di coordinamento:
 
-![img](https://yokii.cn/i/en.jpg)
+![img](http://www.plantuml.com/plantuml/png/RP31Jkf068NtynIJkMiImf85uQxGdT4d6DfH6akRj5EDEqb4H2MO420HerOn4arQZT5e0NcPcIckU0NR3bqOtJKzttyotodQ55lKgUg0QbGdSDUfO2ENpMKXRxNPz4AyriBH2G1OeQO57PjODiGsHABx95gUQ9-npy5ylxwO7B7nc4sxB0WMaoQ2_zQ92XHJrub2DTEmeLtHgcPo6bwzy9kHw3M4UukMnTXHDPgat7F5zJkVzSN1B2gEcaeM8GPGCSLbR1EufT6AKqxOaaPNea_v5ZRkyA23036eHlTW6IlRn50Jxl_QAjmWrWwnqhgKshHCWwOORxR2H__B_GW7tjz2G0wGAKYTF4HivegQ7-yG316G6fbVUMpaNI8WHuXpQH41Cf8Ozyv5_stUUE378-vFUFqE0I39-2XrogVpIrwIop_n0gbwfY3zVfoq_Vdz8J_jyUTkE0mGA4QfKzM_0G00)
 
-Tranne il controllo manuale delle informazioni, la maggior parte si effettua in modo automatico. 
+Tutte le parti del processo vengono effettuate automaticamente e non richiedono intervento manuale, ad accezione del controllo e validazione dei dati/informazioni.
 
-## I nostri principali open source progetti
+## Principali sotto-progetti open source
 
 ### sincronizzazione dei dati
 
-- codice deposito： https://github.com/wuhan2020/data-sync
+- code repository： https://github.com/wuhan2020/data-sync
 
-### applicazioni web progressive
+### applicazioni web front-end
 
-- codice deposito：https://github.com/wuhan2020/WebApp
-- ambiente formale：https://wuhan2020.kaiyuanshe.cn/
+- code repository：https://github.com/wuhan2020/WebApp
+- pagina ufficiale del progetto：https://wuhan2020.kaiyuanshe.cn/
 
-### servizio API
+### servizi API
 
-- codice deposito：https://github.com/wuhan2020/api-server
+- code repository：https://github.com/wuhan2020/api-server
 
-### componente visuale della mappa
+### componenti di visualizzazione della mappa
 
-- codice deposito：https://github.com/wuhan2020/map-viz
+- code repository：https://github.com/wuhan2020/map-viz
 
-### componente per la sincronizzazione dei moduli su Shimo
+### componenti per la sincronizzazione delle tabelle su Shimo (servizio online per l'editing e la condivisione di documenti)
 
-- codice deposito：https://github.com/wuhan2020/shimo-sheet2json
+- code repository：https://github.com/wuhan2020/shimo-sheet2json
 
-## Consegna dei dati
+## Invio dei dati
 
-Tutte le informazioni vengono raccolte a seconda delle seguenti categorie, per favore ne scegli una e compila il suo modulo.
+Tutte le informazioni vengono raccolte in accordo alle seguenti categorie, si prega di scegliere la categoria pertinente a ciascuna delle informazioni che si vogliono inserire e compilare separatamente il relativo modulo di inserimento.
 
-Shimo ducumenti (un online kit produttività) si utilizza per raccogliere le informazioni e i dati vanno sincronizzati dallo script in modo automatico. Perciò non modificare direttamente i ducumenti di dati in questo deposito
+Shimo (servizio online per l'editing e la condivisione di documenti) viene utilizzato per la raccolta delle informazioni, i dati vegono sincronizzati dallo script in maniera automatica, perciò si prega di non modificare direttamente i documenti all'interno della repository.
 
-A causa del vasto numero di partecipanti, l'autorizzazione completa di modifica si è chiusa.   Per favore clicca [qui](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill) per dopo orientando all'entry. 
+A causa dell'elevato numero di partecipanti, i permessi di editing non vengono forniti in maniera automatica, si prega di cliccare [qui](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill) per sottoporre la propria domanda di partecipazione. 
 
-### i link su Shimo：
+### Collegamenti al servizio di editing online Shimo：
 
 - [ospedali](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/ )
 - [alberghi](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
-- [logistiche](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)
-- [fabbricazione e produzione](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
+- [logistica](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)
+- [produzione e confezionamento](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)
 - [donazioni](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)
-- [diagnosi gratuita](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
-- [alloggio per cittadini Wuhan](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
+- [supporto medico gratuito](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
+- [alloggio per cittadini di Wuhan](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
-Hai qualcosa da aggiungere nelle categorie sopra ?  Clicca questo link （https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）
+Se si vuole aggiungere una nuova categoria alla presente lista, si prega di cliccare su questo collegamento per aggiungere un nuovo documento a Shimo（https://shimo.im/forms/rcThp3vPqqrtvChV/fill).
 
 
-## Guida alla contribuzione
+## Guida alla partecipazione al progetto
 
-clicca [qui](./CONTRIBUTING.md)
+Clicca [qui](./CONTRIBUTING.md).
 
-## Guida alla raccolta d'informazioni
+## Guida alla raccolta delle informazioni
 
-clicca [qui](./INFORMATION_GUIDE.md)
-
+Clicca [qui](./INFORMATION_GUIDE.md).
 
 # Incontriamoci su Slack
 
-clicca [Slack gruppo](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+Clicca [qui](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc) per entrare nel nostro gruppo su Slack.
 
-Incontriamoci su Slack per comunicare al meglio su questioni tecniche e non . Lavoriamo insieme , in questo periodo difficile , per combattere il Coronavirus
+## Navigazione del canale Slack
 
-# FAQ ( in sviluppo .. abbiamo bisogno di volontari per sostenere questo FAQ, restate sintonizzati )
+(È richiesto aver prima eseguito l'accesso al Gruppo Slack attraverso il collegamento riportato sopra)
 
-FAQ organizzata，[clicca qui e controlla](./FAQ.md)
+Invitiamo tutti a partecipare al gruppo su Slack per comunicare al meglio su questioni tecniche e non. Lavoriamo insieme, in questo momento difficile, uniti contro il coronavirus.
 
-un gruppo che si chiama INFORMAZIONE - FAQ，[clicca qui e controlla](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
+# FAQ (Sezione in fase di sviluppo, restate sintonizzati! Abbiamo bisogno di volontari che contribuiscano a questa sezione, chi è interessato è invitato a contattarci!)
 
-clicca [Shimo Documento](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+FAQ generiche sul progetto finora raccolte: [clicca qui](./FAQ.md).
+
+FAQ sul gruppo di raccola informazioni: [clicca qui](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
+
+Clicca qui: [Documento Shimo](https://shimo.im/docs/DdWvXvtvpxrqrJ83).
 
 ---
 Translator: [@Atena1118](https://github.com/Atena1118)
