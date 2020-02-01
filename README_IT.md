@@ -10,7 +10,7 @@ Questa è la repository principale, il caricamento di tutti i dati viene effettu
 
 Al fine di facilitare la collaborazione fra tutte le persone coinvolte, è stato stabilito il seguente processo di coordinamento:
 
-![img](http://www.plantuml.com/plantuml/png/RP31Jkf068NtynIJkMiImf85uQxGdT4d6DfH6akRj5EDEqb4H2MO420HerOn4arQZT5e0NcPcIckU0NR3bqOtJKzttyotodQ55lKgUg0QbGdSDUfO2ENpMKXRxNPz4AyriBH2G1OeQO57PjODiGsHABx95gUQ9-npy5ylxwO7B7nc4sxB0WMaoQ2_zQ92XHJrub2DTEmeLtHgcPo6bwzy9kHw3M4UukMnTXHDPgat7F5zJkVzSN1B2gEcaeM8GPGCSLbR1EufT6AKqxOaaPNea_v5ZRkyA23036eHlTW6IlRn50Jxl_QAjmWrWwnqhgKshHCWwOORxR2H__B_GW7tjz2G0wGAKYTF4HivegQ7-yG316G6fbVUMpaNI8WHuXpQH41Cf8Ozyv5_stUUE378-vFUFqE0I39-2XrogVpIrwIop_n0gbwfY3zVfoq_Vdz8J_jyUTkE0mGA4QfKzM_0G00)
+![img](https://yokii.cn/i/en.jpg)
 
 Tutte le parti del processo vengono effettuate automaticamente e non richiedono intervento manuale, ad accezione del controllo e validazione dei dati/informazioni.
 
