@@ -18,6 +18,10 @@ Invitation link to Slack:
 
 [https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
+Information about each channel is provided [here](./README_EN.md#Slack-Channel-Navigation). 
+
+If you think the link has expired, please [raise an issue](https://github.com/wuhan2020/wuhan2020/issues) so we can reflect the changes.
+
 **Q：What are the current available channels on Slack?**
 
 A：Except for the default channels on Slack, we have:
