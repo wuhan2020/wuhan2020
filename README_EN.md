@@ -64,9 +64,11 @@ Please click [here](./CONTRIBUTING_EN.md)
 Please click [here](./INFORMATION_GUIDE_EN.md)
 
 # Slack Communication Group
+
 Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
 ## Slack Channel Navigation
+
 (It requires you to join the Slack Group first following the above link)
 
 | Channel Name               | Pointer              |
