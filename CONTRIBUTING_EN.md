@@ -1,33 +1,29 @@
-<!-- TOC -->
+# Guide For contribution <!-- omit in toc -->
 
-- [Guide For contribution](#Guide For contribution)
-  - [To submit data](#To submit data)
-  - [To submit a new issue or initialize a pull request](#To submit a new issue or initialize a pull request)
-    - [0、To submit a new issue](#0To submit a new issue)
-    - [1、To claim task](#1To claim task)
-    - [2、To fork this repository](#2To fork this repository)
-    - [3、Clone the repository](#3Clone the repository)
-    - [4、To create a `branch`](#4To create a `branch`)
-    - [5、To modify content and submit](#5To modify content and submit)
-    - [6、Upstream repository change synchronization](#6Upstream repository change synchronization)
-    - [7、To push new branch to remote repository](#7To push new branch to remote repository)
-    - [8、To create a `Pull Request`](#8To create a `Pull Request`)
-    - [9、To resolve a merge conflict](#9To resolve a merge conflict)
-    - [10、After the merge , you can](#10After the merge , you can)
-  - [Robot specification](#Robot specification)
-  - [Meet us on Slack](#Meet us on Slack)
+- [To submit data](#to-submit-data)
+- [To submit a new issue or initialize a pull request](#to-submit-a-new-issue-or-initialize-a-pull-request)
+  - [0、To submit a new issue](#0to-submit-a-new-issue)
+  - [1、To claim task](#1to-claim-task)
+  - [2、To fork this repository](#2to-fork-this-repository)
+  - [3、Clone the repository](#3clone-the-repository)
+  - [4、To create a `branch`](#4to-create-a-branch)
+  - [5、To modify content and submit](#5to-modify-content-and-submit)
+  - [6、Upstream repository change synchronization](#6upstream-repository-change-synchronization)
+  - [7、To push new branch to remote repository](#7to-push-new-branch-to-remote-repository)
+  - [8、To create a `Pull Request`](#8to-create-a-pull-request)
+  - [9、To resolve a merge conflict](#9to-resolve-a-merge-conflict)
+  - [10、After the merge, you can：](#10after-the-merge-you-can)
+- [Robot specification](#robot-specification)
+- [Meet us on Slack](#meet-us-on-slack)
 
-<!-- /TOC -->
+## To submit data
 
-# Guide For contribution
-## To submit data 
 **This is the main repository, all the data import is accomplished automatically by scripts. So please don’t submit data to this repository directly. To submit data , please check [README](./README.md)**。
 
 > This platform uses Shimo (a cloud-based productivity suite) to collect data. The data will be automatically submitted to the repository in the form of Rps by scripts.
 
-> Since there are lots of contributors, we won’t give everyone the authority 
+> Since there are lots of contributors, we won’t give everyone the authority
 to edit, please fill in a form of application [here](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill). We will invite you to input information to certain sheets or forms.
-
 
 ## To submit a new issue or initialize a pull request
 In this guide we will try describing how to submit a new issue or initialize a pull request as detailed as we can. Welcome to contribute to **wuhan2020** !
@@ -40,14 +36,14 @@ When submitting a new `issue`， please pay attention to the type of the `issue`
 
 -   hospital: information relating to hospitals
 -   factory: information relating to manufacturing and production
--   logistical: logistical information 
+-   logistical: logistical information
 -   hotel: information relating to hotels
 -   donation：information relating to donation
 -   clinic：information relating to voluntary clinic
 -   news：news update on this 2019-nCoV epidemic prevention
--   doc: about documentation 
--   bug： bug report 
--   feature: new features 
+-   doc: about documentation
+-   bug： bug report
+-   feature: new features
 
 ### 1、To claim task
 
@@ -128,7 +124,7 @@ If there have been changes to the upstream repo already, please run `rebase` at 
 $ git rebase upstream/master
 ```
 
-### 7、To push new branch to remote repository 
+### 7、To push new branch to remote repository
 
 ```bash
 $ git push -f origin my-fix-branch:my-fix-branch
@@ -149,7 +145,7 @@ git commit --amend
 git push -f origin my-fix-branch
 ```
 
-### 9、To resolve a merge conflict 
+### 9、To resolve a merge conflict
 
 > Nota bene : if no conflict occurs, no need to do these
 
@@ -209,7 +205,7 @@ This project has been granted access to GitHub robot :`Menbotics`，it can：
 
 To know details of robot configuration, please check [hypertrons.json](./.github/hypertrons.json)，for example, to see who have the merging authority.
 
-## Meet us on Slack 
+## Meet us on Slack
 
 Furthermore , we have our [Slack group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)，where those channels for frontend backend and data sync are already prepared , meet us on Slack for a better communication both on technical and non-technical themes.
 Let's work together through this tough period to fight against the coronavirus!

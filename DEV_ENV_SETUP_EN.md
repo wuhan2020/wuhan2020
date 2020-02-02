@@ -1,4 +1,5 @@
 # Github Repo processing
+
 ## Git Repository Download Addresses
 - Major point wuhan2020：https://github.com/wuhan2020/wuhan2020.git  -- wuhan（branch prefix start with）
 - api project： https://github.com/wuhan2020/api-server.git -- api
@@ -14,7 +15,7 @@
 #### copy various repos to local，create branches according issues with your own name and project name, start with fixed prefix，for an example：
 * `用Python爬取最新疫情数据`, `allocated to centurion-crawler` with utilizing  `wuhan-pythonspider-centurion`
 
-* `对于页面展示的建议`, `allocated to zhuangbiaowei` with utilizing `web-pagepresentation-zhuangbiaowei` 
+* `对于页面展示的建议`, `allocated to zhuangbiaowei` with utilizing `web-pagepresentation-zhuangbiaowei`
 
 #### after to modification on local branch，push your change to remote branch to master or upstream. The authorize has right to decide use it or modify or merge
 * `git branch {branch-name} `
@@ -25,4 +26,3 @@
 * `git push`
 
 **Make sure your pull request has right or authorization to be merged to master, if it cannot be, please contact author of project, make sure it is not blocked**
-

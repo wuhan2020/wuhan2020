@@ -1,8 +1,24 @@
-*[简体中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano*
+*[简体中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano* <!-- omit in toc -->
+
+- [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-wuhan-2019-ncov)
+  - [Processo di coordinamento](#processo-di-coordinamento)
+  - [Principali sotto-progetti open source](#principali-sotto-progetti-open-source)
+    - [sincronizzazione dei dati](#sincronizzazione-dei-dati)
+    - [applicazioni web front-end](#applicazioni-web-front-end)
+    - [servizi API](#servizi-api)
+    - [componenti di visualizzazione della mappa](#componenti-di-visualizzazione-della-mappa)
+    - [componenti per la sincronizzazione delle tabelle su Shimo (servizio online per l'editing e la condivisione di documenti)](#componenti-per-la-sincronizzazione-delle-tabelle-su-shimo-servizio-online-per-lediting-e-la-condivisione-di-documenti)
+  - [Invio dei dati](#invio-dei-dati)
+    - [Collegamenti al servizio di editing online Shimo：](#collegamenti-al-servizio-di-editing-online-shimo)
+  - [Guida alla partecipazione al progetto](#guida-alla-partecipazione-al-progetto)
+  - [Guida alla raccolta delle informazioni](#guida-alla-raccolta-delle-informazioni)
+- [Incontriamoci su Slack](#incontriamoci-su-slack)
+  - [Navigazione del canale Slack](#navigazione-del-canale-slack)
+- [FAQ (Sezione in fase di sviluppo, restate sintonizzati! Abbiamo bisogno di volontari che contribuiscano a questa sezione, chi è interessato è invitato a contattarci!)](#faq-sezione-in-fase-di-sviluppo-restate-sintonizzati-abbiamo-bisogno-di-volontari-che-contribuiscano-a-questa-sezione-chi-%c3%a8-interessato-%c3%a8-invitato-a-contattarci)
 
 # Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV
 
-In relazione al focolaio di polmonite, ed altri sintomi, insorto in Cina all'inizio dell'anno 2020 in associazione alla diffusione di un nuovo tipo di coronavirus, il presente progetto ha l'obiettivo di raccogliere e diffondere informazioni riguardanti: strutture (ospedali, istituti sanitari, alberghi, ristoranti, impianti di produzione e confezionamento), logistica, contributi e donazioni, prevenzione e supporto medico, ed altre notizie, allo scopo di facilitare lo scambio informativo e l'impiego efficace ed efficiente di risorse sociali. 
+In relazione al focolaio di polmonite, ed altri sintomi, insorto in Cina all'inizio dell'anno 2020 in associazione alla diffusione di un nuovo tipo di coronavirus, il presente progetto ha l'obiettivo di raccogliere e diffondere informazioni riguardanti: strutture (ospedali, istituti sanitari, alberghi, ristoranti, impianti di produzione e confezionamento), logistica, contributi e donazioni, prevenzione e supporto medico, ed altre notizie, allo scopo di facilitare lo scambio informativo e l'impiego efficace ed efficiente di risorse sociali.
 
 Questa è la repository principale, il caricamento di tutti i dati viene effettuato automaticamente tramite script,  **_non caricare direttamente i dati all'interno della repository_**, per ulteriori informazioni si prega di far riferimento alla presente documentazione.
 
@@ -43,7 +59,7 @@ Tutte le informazioni vengono raccolte in accordo alle seguenti categorie, si pr
 
 Shimo (servizio online per l'editing e la condivisione di documenti) viene utilizzato per la raccolta delle informazioni, i dati vegono sincronizzati dallo script in maniera automatica, perciò si prega di non modificare direttamente i documenti all'interno della repository.
 
-A causa dell'elevato numero di partecipanti, i permessi di editing non vengono forniti in maniera automatica, si prega di cliccare [qui](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill) per sottoporre la propria domanda di partecipazione. 
+A causa dell'elevato numero di partecipanti, i permessi di editing non vengono forniti in maniera automatica, si prega di cliccare [qui](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill) per sottoporre la propria domanda di partecipazione.
 
 ### Collegamenti al servizio di editing online Shimo：
 

@@ -1,8 +1,24 @@
-# 简体中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md)
+# 简体中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
 ### 志愿者入口 >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT.md) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md)
 
 [wuhan2020社区官网](https://wuhan2020.github.io/zh-cn/)
+
+- [武汉新型冠状病毒防疫信息收集平台](#%e6%ad%a6%e6%b1%89%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92%e9%98%b2%e7%96%ab%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e5%b9%b3%e5%8f%b0)
+  - [协作流程](#%e5%8d%8f%e4%bd%9c%e6%b5%81%e7%a8%8b)
+  - [该平台主要开源项目](#%e8%af%a5%e5%b9%b3%e5%8f%b0%e4%b8%bb%e8%a6%81%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae)
+    - [数据同步](#%e6%95%b0%e6%8d%ae%e5%90%8c%e6%ad%a5)
+    - [渐进式 Web 应用](#%e6%b8%90%e8%bf%9b%e5%bc%8f-web-%e5%ba%94%e7%94%a8)
+    - [API 服务](#api-%e6%9c%8d%e5%8a%a1)
+    - [地图可视化组件](#%e5%9c%b0%e5%9b%be%e5%8f%af%e8%a7%86%e5%8c%96%e7%bb%84%e4%bb%b6)
+    - [石墨表格同步组件](#%e7%9f%b3%e5%a2%a8%e8%a1%a8%e6%a0%bc%e5%90%8c%e6%ad%a5%e7%bb%84%e4%bb%b6)
+  - [数据提交](#%e6%95%b0%e6%8d%ae%e6%8f%90%e4%ba%a4)
+    - [石墨文档地址：](#%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3%e5%9c%b0%e5%9d%80)
+  - [贡献指南](#%e8%b4%a1%e7%8c%ae%e6%8c%87%e5%8d%97)
+  - [信息收集指南](#%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e6%8c%87%e5%8d%97)
+- [Slack交流群组](#slack%e4%ba%a4%e6%b5%81%e7%be%a4%e7%bb%84)
+  - [Slack频道导航](#slack%e9%a2%91%e9%81%93%e5%af%bc%e8%88%aa)
+- [FAQ常见问题 （持续更新，招募志愿者一起维护）](#faq%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98-%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%e6%8b%9b%e5%8b%9f%e5%bf%97%e6%84%bf%e8%80%85%e4%b8%80%e8%b5%b7%e7%bb%b4%e6%8a%a4)
 
 # 武汉新型冠状病毒防疫信息收集平台
 

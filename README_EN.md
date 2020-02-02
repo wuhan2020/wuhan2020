@@ -1,4 +1,19 @@
-[简体中文](./README.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md)
+[简体中文](./README.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
+
+- [Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention](#information-collection-platform-for-wuhan-2019-ncov-epidemic-prevention)
+  - [Collaboration process](#collaboration-process)
+  - [Major Open Source Sub-Projects](#major-open-source-sub-projects)
+    - [Data Synchronization](#data-synchronization)
+    - [Web Front-end Development](#web-front-end-development)
+    - [API Service](#api-service)
+    - [Map Visualization Components](#map-visualization-components)
+    - [Online Form Editing Service(ShiMo) Synchronization Component](#online-form-editing-serviceshimo-synchronization-component)
+  - [Data Submission](#data-submission)
+    - [Online Document Service Shimo Edit Link：](#online-document-service-shimo-edit-link)
+  - [Contribution Guide](#contribution-guide)
+  - [Data and Information Collection Guide](#data-and-information-collection-guide)
+- [Slack Communication Group](#slack-communication-group)
+  - [Slack Channel Navigation](#slack-channel-navigation)
 
 # Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention
 This translation updates to 18:30(CST), 1/30/2020.
@@ -39,7 +54,7 @@ All of the parts are processed automatically and won't require manual work excep
 
 - Codebase：https://github.com/wuhan2020/shimo-sheet2json
 
-## Data Submission 
+## Data Submission
 
 The information collected by the platform includes the following types of data, please categorize and submit separately.
 

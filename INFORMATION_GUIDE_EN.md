@@ -1,10 +1,17 @@
-# Data Collection Guide
+# Data Collection Guide <!-- omit in toc -->
+
+- [Hospital:](#hospital)
+- [Hotel:](#hotel)
+- [Logistics:](#logistics)
+- [Manufacturer:](#manufacturer)
+- [Donation:](#donation)
+- [Free medical consultation:](#free-medical-consultation)
 
 We have founded an information team. The information collected by our platform includes following types.
 
 Due to the large number of participants, the editing authority has limitation. Please fill the application form [here](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill). We will invite you to join us.
 
-For those who want to join the information team, please 
+For those who want to join the information team, please
 1. Scan the following WeChat QR Code:
 ![QRCode](./static/QRCode.jpeg)
 
@@ -12,7 +19,7 @@ For those who want to join the information team, please
 
 3. Please be responsible to the epidemic area when you are entering any information and **_make sure the information is valid_**. For those information related to hospitals, hotels, logistics and donations, **_please attach official web link. For supplier information declaration, please append qualification certification, such as business certificate, industrial and commercial information, etc._** to make sure the validity of suppliers and already get the permission from the suppliers.
 
-4. Before entering any information, please verify the information source by yourself first. Do NOT enter information without official links and do NOT enter unconfirmed information. 
+4. Before entering any information, please verify the information source by yourself first. Do NOT enter information without official links and do NOT enter unconfirmed information.
 
 Our platform is using Shimo.im to collect information, and use script to push to this repo by using PR. **Do NOT edit files directly in this repo.**
 
