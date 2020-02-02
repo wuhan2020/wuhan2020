@@ -1,3 +1,5 @@
+[简体中文](./WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md) | English | [日本語]() | [Italiano]()
+
 <img src="https://raw.githubusercontent.com/wuhan2020/wuhan2020.github.io/master/images/wuhan2020.png" alt="wuhan2020">
 
 # WUHAN2020 Official Announcement 2020.1.29
@@ -120,9 +122,13 @@ Want to be a contributor? Come and join our `Slack` channel now!
 
 Thank you for your genuine love and voluntary contribution! Let's work together through this tough period to overcome the difficulties.
 
-wuhan2020, we do! we can!
+wuhan2020, fighting!  
+
 
 **This page serves as a bulletin board for comprehensive management, it's new-comer-friendly, and all the team updates will be presented here.**
 
 - [editing this doc on GitHub](https://github.com/wuhan2020/wuhan2020.github.io/)
 - [questions and suggestions](https://github.com/wuhan2020/wuhan2020.github.io/issues/new)
+
+---
+Translator: [@Atena1118](https://github.com/Atena1118), Proofreader:  [@JoeZijunZhou](https://github.com/JoeZijunZhou)
