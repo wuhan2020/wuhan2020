@@ -104,9 +104,9 @@ Click here to join the [Slack Communication Group](https://join.slack.com/t/wuha
 
 Welcome to join together to explore all kinds of technical and non-technical issues, let's all work together and united to overcome the difficulties and fight against the virus!
 
-FAQ arranged，[click here](./FAQ.md).
+Selected FAQ，[click here](./FAQ.md).
 
-FAQ of Technology Group, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
+FAQ for Info Collection Team, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 
 Follow [Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
