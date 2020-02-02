@@ -1,6 +1,8 @@
 # 简体中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md)
 
-### 公告点击进入 >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md)
+### 志愿者入口 >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT.md) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md)
+
+[wuhan2020社区官网](https://wuhan2020.github.io/zh-cn/)
 
 # 武汉新型冠状病毒防疫信息收集平台
 
