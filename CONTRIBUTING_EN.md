@@ -211,5 +211,5 @@ To know details of robot configuration, please check [hypertrons.json](./.github
 
 ## Meet us on Slack 
 
-Furthermore , we have our [Slack group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)，where those channels for frontend backend and data sync are already prepared , meet us on Slack for a better communication both on technical and non-technical themes.
+Furthermore , we have our [Slack group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)，where those channels for frontend backend and data sync are already prepared , meet us on Slack for a better communication both on technical and non-technical themes.
 Let's work together through this tough period to fight against the coronavirus!
