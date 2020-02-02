@@ -1,5 +1,13 @@
-Translation: *[English](INFORMATION_GUIDE_EN.md)*
+Translation: *[English](INFORMATION_GUIDE_EN.md)* <!-- omit in toc -->
 
+- [信息收集指南](#%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e6%8c%87%e5%8d%97)
+    - [医院](#%e5%8c%bb%e9%99%a2)
+  - [酒店](#%e9%85%92%e5%ba%97)
+    - [物流](#%e7%89%a9%e6%b5%81)
+    - [生产](#%e7%94%9f%e4%ba%a7)
+    - [捐赠](#%e6%8d%90%e8%b5%a0)
+    - [义诊](#%e4%b9%89%e8%af%8a)
+    - [在外武汉游客住宿信息](#%e5%9c%a8%e5%a4%96%e6%ad%a6%e6%b1%89%e6%b8%b8%e5%ae%a2%e4%bd%8f%e5%ae%bf%e4%bf%a1%e6%81%af)
 
 # 信息收集指南
 

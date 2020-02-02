@@ -1,4 +1,9 @@
-# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/FAQ_EN.md)
+# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/FAQ_EN.md) <!-- omit in toc -->
+
+- [FAQ常见问题](#faq%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98)
+  - [项目运作类](#%e9%a1%b9%e7%9b%ae%e8%bf%90%e4%bd%9c%e7%b1%bb)
+  - [功能建议类](#%e5%8a%9f%e8%83%bd%e5%bb%ba%e8%ae%ae%e7%b1%bb)
+  - [其它答疑](#%e5%85%b6%e5%ae%83%e7%ad%94%e7%96%91)
 
 # FAQ常见问题
 

@@ -1,5 +1,7 @@
+# 贡献指南
+
 <!-- TOC -->
-# WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING_EN.md)
+*WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING_EN.md)*
 
 - [贡献指南](#贡献指南)
   - [我要提交数据信息](#我要提交数据信息)
@@ -20,8 +22,8 @@
 
 <!-- /TOC -->
 
-# 贡献指南
 ## 我要提交数据信息
+
 **该仓库为数据主仓，所有数据由脚本自动提交导入，请不要在该仓库中直接提交数据信息，提交数据信息，请参考 [README](./README.md)**。
 
 > 本平台使用石墨文档收集数据信息，并由脚本定时以 PR 形式提交数据到该仓库，请不要在该仓库中直接修改数据文件。
