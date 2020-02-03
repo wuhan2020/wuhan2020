@@ -1,6 +1,6 @@
 *[简体中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano* <!-- omit in toc -->
 
-### wuhan2020 community Website >>> [http://community.wuhan2020.org.cn/en-us/](http://community.wuhan2020.org.cn/en-us/) 
+### Wuhan2020 community Website >>> [http://community.wuhan2020.org.cn/en-us/](http://community.wuhan2020.org.cn/en-us/) 
 
 ### ### Volunteer entrance      >>> [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
 
