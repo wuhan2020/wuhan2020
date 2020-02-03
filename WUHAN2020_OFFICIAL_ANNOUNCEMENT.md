@@ -1,4 +1,4 @@
-简体中文 | [English](./WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md) | [日本語]() | [Italiano]()
+简体中文 | [English](./WUHAN2020_OFFICIAL_ANNOUNCEMENT_EN.md) | [日本語]() | [Italiano]() | [français](./WUHAN2020_OFFICIAL_ANNOUNCEMENT_FR.md) 
 
 <img src="./static/wuhan2020.png" alt="wuhan2020">
 

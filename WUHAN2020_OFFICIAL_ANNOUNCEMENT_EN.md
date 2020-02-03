@@ -1,4 +1,4 @@
-[简体中文](./WUHAN2020_OFFICIAL_ANNOUNCEMENT.md) | English | [日本語]() | [Italiano]()
+[简体中文](./WUHAN2020_OFFICIAL_ANNOUNCEMENT.md) | English | [日本語]() | [Italiano]() | [français](./WUHAN2020_OFFICIAL_ANNOUNCEMENT_FR.md)
 
 <img src="https://raw.githubusercontent.com/wuhan2020/wuhan2020.github.io/master/images/wuhan2020.png" alt="wuhan2020">
 
