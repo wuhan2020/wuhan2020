@@ -1,5 +1,8 @@
 [简体中文](./README.md) | [English](./README_EN.md) | 日本語 | [Italiano](./README_IT.md) <!-- omit in toc -->
 
+### wuhan2020社区官网 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/) 
+
+### 志愿者入口        >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
 - [新型コロナウイルス関連肺炎（2019-nCoV）情報共有サイト](#%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e9%96%a2%e9%80%a3%e8%82%ba%e7%82%8e2019-ncov%e6%83%85%e5%a0%b1%e5%85%b1%e6%9c%89%e3%82%b5%e3%82%a4%e3%83%88)
   - [協力フローチャート](#%e5%8d%94%e5%8a%9b%e3%83%95%e3%83%ad%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88)

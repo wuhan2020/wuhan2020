@@ -1,5 +1,9 @@
 *[简体中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano* <!-- omit in toc -->
 
+### wuhan2020 community Website >>> [http://community.wuhan2020.org.cn/en-us/](http://community.wuhan2020.org.cn/en-us/) 
+
+### ### Volunteer entrance      >>> [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
+
 - [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-wuhan-2019-ncov)
   - [Processo di coordinamento](#processo-di-coordinamento)
   - [Principali sotto-progetti open source](#principali-sotto-progetti-open-source)
