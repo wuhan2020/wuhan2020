@@ -113,3 +113,4 @@ La presente pagina web costituisce una risorsa per l'accesso e la gestione del p
 - [Riportare un problema](https://github.com/wuhan2020/wuhan2020.github.io/issues/new) 
 
 
+Translator: @Atena1118,胡静楠,赖伟伟Lorenzo, proofreader: @sciulli
