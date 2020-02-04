@@ -1,4 +1,7 @@
+# 贡献指南
+
 <!-- TOC -->
+*WE PROVIDE ENGLISH VERSION, PLEASE CLICK [HERE](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING_EN.md)*
 
 - [贡献指南](#贡献指南)
   - [我要提交数据信息](#我要提交数据信息)
@@ -19,9 +22,9 @@
 
 <!-- /TOC -->
 
-# 贡献指南
 ## 我要提交数据信息
-**该仓库为数据主仓，所有数据由脚本自动提交导入，请不要在该仓库中直接提交数据信息，提交数据信息，请参考 [REAMDE](./README.md)**。
+
+**该仓库为数据主仓，所有数据由脚本自动提交导入，请不要在该仓库中直接提交数据信息，提交数据信息，请参考 [README](./README.md)**。
 
 > 本平台使用石墨文档收集数据信息，并由脚本定时以 PR 形式提交数据到该仓库，请不要在该仓库中直接修改数据文件。
 
@@ -210,4 +213,4 @@ git push origin --delete my-fix-branch
 
 ## Slack 交流群组
 
-此外，我们已经建立了 [Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)，已建立前端、后端、数据同步等对应 channel，欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
+此外，我们已经建立了 [Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)，已建立前端、后端、数据同步等对应 channel，欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
