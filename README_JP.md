@@ -23,17 +23,17 @@
 # 新型コロナウイルス関連肺炎（2019-nCoV）情報共有サイト
 11:00（CST）1/31/2020時点で更新,最新のアップデートについては、中国語版と英語版を確認してください。
 
-2020年初、武漢市に発生した新型コロナウイルス関連肺炎に対し、情報収集と目的として、各病院、ホテル、工場、物流、寄贈、寄付金、予防、治療、活動などを統一収集又は公表、お互いに情報共有、又は有効に社会資源を上手く利用する出来るように。　　　　　
+2020年初、武漢市に発生した新型コロナウイルス関連肺炎に対し、各病院、ホテル、工場、物流、寄贈、寄付金、予防、治療、活動などを統一収集又は公表、お互いに情報共有、又は有効に社会資源を上手く利用する出来るようにすることを目的としています。中国湖北省武漢より発生した新型コロナウイルス（2019-nCoV）と効率的に戦っていきます。すべてのコードはオープンソースであり、収集されたデータは慎重にレビュー・検証されたうえで、一般に公開されます。
 
-本プロジェクトはデータウェアハウスをメインとして、すべてのデータはスクリプトを使用し自動導入されている。**_直接データウェアハウスに提出することはご遠慮ください_**，具体的な提出ルートは下に参照してください。
+本プロジェクトはデータウェアハウスをメインとして、すべてのデータはスクリプトを使用し自動導入されています。**_直接データウェアハウスに提出することはご遠慮ください_**，具体的な提出ルートは以下を参照してください。
 
 ## 協力フローチャート
 
-本プログラムでは皆さんが円滑に進めるために、以下のフローチャートを組み立てた。
+本プログラムでは皆さんが円滑に進めるために、以下のフローチャートを組み立てました。
 
 ![img](https://yokii.cn/i/en.jpg)
 
-提供した情報は他人認証が必要以外、ほかの部分は全部自動化され、人為的な介入を行わず。
+提供された情報は、データの検証やレビューを除いてすべて自動的に処理されるため、手動での作業は必要ありません。
 
 ## メインオープンソース
 
@@ -60,11 +60,11 @@
 
 ## 情報提供
 
-本プロジェクトは収集する情報は以下のように分類されている、別々に記入してください。
+本プロジェクトで収集する情報は以下のように分類されています。それぞれに記入してください。
 
-本プロジェクトは(shimo)ファイルを利用して、情報収集を行う、その上にすべてのデータはスクリプトを使用し自動導入されている。直接にファイルの改ざんなどはご遠慮ください。
+本プロジェクトは(shimo)ファイルを利用して、情報収集を行います。そして、すべてのデータはスクリプトを使用し自動導入されてます。直接ファイルを書き換えることはご遠慮ください。
 
-参加人数が多いため、全ての人に編集権限を与えることができない。ここに[クリック](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)申し込んだ後に、招待メールを送る。
+参加人数が多いため、全ての人に編集権限を与えることができません。ここを[クリック](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)して申し込むと、招待メールが送られます。
 
 ### (shimo)ファイル編集リンク：
 
@@ -76,19 +76,19 @@
 - [無料診療](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 - [在外武漢観光客の宿泊先](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
-もし新しいファイルを開ければ、[新しいファイル申し込み]（https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）を記入してください。
+もし新しいファイルを作りたい場合、[新規ファイル申し込み]（https://shimo.im/forms/rcThp3vPqqrtvChV/fill ）を記入してください。
 
 
 ## 貢献ガイド
 
-ここに[クリック](./CONTRIBUTING.md)してください。
+ここを[クリック](./CONTRIBUTING.md)してください。
 
 ## 情報収集ガイド
-ここに[クリック](./INFORMATION_GUIDE.md)してください。
+ここを[クリック](./INFORMATION_GUIDE.md)してください。
 
 
 # Slack 交流グループ
-ここにクリックすると参加できる[Slack 交流グループ](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+ここをリックすると参加できます[Slack 交流グループ](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
 
 ## Slackチャンネルナビゲーション
 (最初にグループに参加する必要があります)
@@ -109,7 +109,7 @@
 | 中国本土外              | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
 | Slackチャネル運用チーム      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
-初心者の方、専門家の方問わずに交流出来るように心からお待ちしております！こころをあわせて、一緒に難関を乗り越えよう！
+初心者の方も経験者の方も貢献出来るように心からお待ちしております！こころをあわせて、一緒に危機を乗り越えましょう！
 
 # FAQ （更新中，ボランティア募集中）
 
@@ -119,4 +119,4 @@
 
 クリックしてください[shimoファイル](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
-翻訳者 Sakula Air, Yoki, 校正者 Yoki W.
+翻訳者 Sakula Air, Yoki, RRF 校正者 Yoki W.
