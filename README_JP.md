@@ -119,4 +119,4 @@
 
 クリックしてください[shimoファイル](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
-翻訳者 Sakula Air, Yoki, RRF 校正者 Yoki W.
+翻訳者 Sakula Air, Yoki 校正者 Yoki W, [RRF](https://github.com/RRFHOUDEN)
