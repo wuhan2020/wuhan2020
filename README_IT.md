@@ -1,9 +1,9 @@
 # [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano <!-- omit in toc -->
 
-[![wuhan2020 コミュニティ公式ウェブサイト](https://img.shields.io/badge/wuhan2020-コミュニティ公式ウェブサイト-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it)
-[![wuhan2020 公式発表](https://img.shields.io/badge/wuhan2020-公式発表-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
+[![wuhan2020 Sito Web della comunità](https://img.shields.io/badge/wuhan2020-Sito%20Web%20della%20comunit%C3%A0-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it)
+[![wuhan2020 ANNUNCIO UFFICIALE](https://img.shields.io/badge/wuhan2020-ANNUNCIO%20UFFICIALET-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
 
-### Volunteer entrance      >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
+### Volunteer entrance      >>> [![Clicca qui per entrare nel nostro gruppo su Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
 
 - [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-wuhan-2019-ncov)
   - [Processo di coordinamento](#processo-di-coordinamento)
