@@ -1,8 +1,8 @@
 # [简体中文](./README.md) | [繁體中文](./README_TW.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
-### Wuhan2020 community Website >>> [http://community.wuhan2020.org.cn/en-us/](http://community.wuhan2020.org.cn/en-us/)
+### Wuhan2020 community Website >>> [https://community.wuhan2020.org.cn/en-us/](https://community.wuhan2020.org.cn/en-us/)
 
-### Volunteer entrance         >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
+### Volunteer entrance         >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
 - [Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention](#information-collection-platform-for-wuhan-2019-ncov-epidemic-prevention)
   - [Collaboration process](#collaboration-process)

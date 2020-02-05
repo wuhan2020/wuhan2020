@@ -1,8 +1,8 @@
 # [簡體中文](./README.md) | 繁體中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
-### Wuhan2020 社群官網 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/)
+### Wuhan2020 社群官網 >>> [https://community.wuhan2020.org.cn/zh-cn/](https://community.wuhan2020.org.cn/zh-cn/)
 
-### 志願者入口        >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
+### 志願者入口        >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html)
 
 
 - [武漢新型冠狀病毒防疫資訊收集平台](#%e6%ad%a6%e6%b1%89%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92%e9%98%b2%e7%96%ab%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e5%b9%b3%e5%8f%b0)
