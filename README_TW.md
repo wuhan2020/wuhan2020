@@ -1,6 +1,6 @@
-# 正體中文 | [簡體中文](./README.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!—omit in toc 
+# [簡體中文](./README.md) | 繁體中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
-### Wuhan2020 社群官網 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/) 
+### Wuhan2020 社群官網 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/)
 
 ### 志願者入口        >>> [![Github](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html) [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
@@ -113,7 +113,7 @@
 (需要先加入群組)
 
 | 頻道名稱     | 連結      |
-|------------| ----------|	
+|------------| ----------|
 | 預設頻道               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23anti--2019--ncov-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSS83MZUK)              |
 | 通用資訊發佈           | [![Github](https://img.shields.io/badge/Slack%20Channel-%23general-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSTGKFRCH)                       |
 | 設計技能組             | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--designer-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT70SHJQ0)                |
