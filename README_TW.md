@@ -113,7 +113,7 @@
 (需要先加入群組)
 
 | 頻道名稱     | 連結      |
-	
+|------------| ----------|	
 | 預設頻道               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23anti--2019--ncov-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSS83MZUK)              |
 | 通用資訊發佈           | [![Github](https://img.shields.io/badge/Slack%20Channel-%23general-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSTGKFRCH)                       |
 | 設計技能組             | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--designer-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CT70SHJQ0)                |
@@ -137,3 +137,6 @@
 資訊組FAQ，[請檢視](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
 請點按 [石墨文檔](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+
+---
+Translator: [@jrthsr700tmax](https://github.com/jrthsr700tmax)
