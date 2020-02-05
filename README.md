@@ -128,6 +128,12 @@
 | 海外相关               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
 | Slack频道运营团队      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
+# 邮件列表
+
+ wuhan2020社区的邮件列表：wuhan2020@googlegroups.com
+ [订阅](mailto:dev-subscribe@dubbo.apache.org), [退订](mailto:dev-unsubscribe@dubbo.apache.org), [存档](https://groups.google.com/forum/#!forum/wuhan2020)
+ 
+
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
 
 # FAQ常见问题
