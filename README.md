@@ -131,14 +131,13 @@
 
 # 邮件列表
 
- wuhan2020 邮件列表：[wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([订阅](mailto:dev-subscribe@dubbo.apache.org), [退订](mailto:dev-unsubscribe@dubbo.apache.org), [存档](https://groups.google.com/forum/#!forum/wuhan2020))
-
+wuhan2020 邮件列表：[wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([订阅](mailto:wuhan2020+subscribe@googlegroups.com), [退订](mailto:wuhan2020+unsubscribe@googlegroups.com), [存档](https://groups.google.com/forum/#!forum/wuhan2020))
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
 
 # FAQ常见问题
 
-已经整理整个项目的FAQ，[请查看](./FAQ.md)
+已经整理整个项目的FAQ，[请查看](https://community.wuhan2020.org.cn/zh-cn/docs/overview/faq.html)
 
 信息组FAQ，[请查看](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
