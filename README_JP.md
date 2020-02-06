@@ -114,7 +114,7 @@
 
 # FAQ （更新中，ボランティア募集中）
 
-よくある質問，[クリック](./FAQ.md)
+よくある質問，[クリック](https://community.wuhan2020.org.cn/ja-jp/docs/overview/faq.html)
 
 情報グループFAQ，[クリック](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 

@@ -109,13 +109,13 @@ Click here to join the [Slack Communication Group](https://join.slack.com/t/wuha
 
 # E-mail List
 
-wuhan2020 e-mail list: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([subscribe](mailto:dev-subscribe@dubbo.apache.org), [unsubscribe](mailto:dev-unsubscribe@dubbo.apache.org), [archive](https://groups.google.com/forum/#!forum/wuhan2020))
+wuhan2020 e-mail list: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([subscribe](mailto:wuhan2020+subscribe@googlegroups.com), [unsubscribe](mailto:wuhan2020+unsubscribe@googlegroups.com), [archive](https://groups.google.com/forum/#!forum/wuhan2020))
 
 Welcome to join together to explore all kinds of technical and non-technical issues, let's all work together and united to overcome the difficulties and fight against the virus!
 
 # FAQ
 
-Selected FAQ，[click here](./FAQ.md).
+Selected FAQ，[click here](https://community.wuhan2020.org.cn/en-us/docs/overview/faq.html).
 
 FAQ for Info Collection Team, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 
