@@ -129,6 +129,10 @@
 | 海外相關               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
 | Slack頻道營運團隊      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
+# 郵件列表
+
+wuhan2020 郵件列表: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([訂閱](mailto:dev-subscribe@dubbo.apache.org), [退訂](mailto:dev-unsubscribe@dubbo.apache.org), [存檔](https://groups.google.com/forum/#!forum/wuhan2020))
+
 歡迎大家加入共同探討各類技術或非技術類問題，讓我們大家一起齊心協力，眾志成城，共體時艱！
 
 # FAQ常見問題
