@@ -131,8 +131,7 @@
 
 # 邮件列表
 
- wuhan2020社区的邮件列表：wuhan2020@googlegroups.com
- [订阅](mailto:dev-subscribe@dubbo.apache.org), [退订](mailto:dev-unsubscribe@dubbo.apache.org), [存档](https://groups.google.com/forum/#!forum/wuhan2020)
+ wuhan2020 邮件列表：[wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([订阅](mailto:dev-subscribe@dubbo.apache.org), [退订](mailto:dev-unsubscribe@dubbo.apache.org), [存档](https://groups.google.com/forum/#!forum/wuhan2020))
 
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
