@@ -3,7 +3,7 @@
 [![wuhan2020 Sito Web della comunità](https://img.shields.io/badge/wuhan2020-Sito%20Web%20della%20comunit%C3%A0-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it)
 [![wuhan2020 ANNUNCIO UFFICIALE](https://img.shields.io/badge/wuhan2020-ANNUNCIO%20UFFICIALET-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
 
-### Volunteer entrance      >>> [![Clicca qui per entrare nel nostro gruppo su Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+### Volunteer entrance      >>> [![Clicca qui per entrare nel nostro gruppo su Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 - [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan 2019-nCoV](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-wuhan-2019-ncov)
   - [Processo di coordinamento](#processo-di-coordinamento)
@@ -89,7 +89,7 @@ Clicca [qui](https://community.wuhan2020.org.cn/it-it/docs/dev/contributing.html
 
 # Incontriamoci su Slack
 
-Clicca [qui](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc) per entrare nel nostro gruppo su Slack.
+Clicca [qui](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY) per entrare nel nostro gruppo su Slack.
 
 ## Navigazione del canale Slack
 

@@ -3,7 +3,7 @@
 [![wuhan2020 コミュニティ公式ウェブサイト](https://img.shields.io/badge/wuhan2020-コミュニティ公式ウェブサイト-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/ja-jp)
 [![wuhan2020 公式発表](https://img.shields.io/badge/wuhan2020-公式発表-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/ja-jp/blog/wuhan2020-official-announcement.html)
 
-### 志愿者入口        >>> [![[ここをリックすると参加できます Slack 交流グループ]](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+### 志愿者入口        >>> [![[ここをリックすると参加できます Slack 交流グループ]](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 - [新型コロナウイルス関連肺炎（2019-nCoV）情報共有サイト](#%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e9%96%a2%e9%80%a3%e8%82%ba%e7%82%8e2019-ncov%e6%83%85%e5%a0%b1%e5%85%b1%e6%9c%89%e3%82%b5%e3%82%a4%e3%83%88)
   - [協力フローチャート](#%e5%8d%94%e5%8a%9b%e3%83%95%e3%83%ad%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88)
@@ -89,7 +89,7 @@
 ここを[クリック](https://community.wuhan2020.org.cn/ja-jp/docs/dev/contributing.html)してください。
 
 # Slack 交流グループ
-ここをリックすると参加できます[Slack 交流グループ](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+ここをリックすると参加できます[Slack 交流グループ](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 ## Slackチャンネルナビゲーション
 (最初にグループに参加する必要があります)
