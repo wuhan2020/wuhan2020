@@ -78,7 +78,7 @@
 - [义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 - [在外武汉游客住宿信息](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
-具体细节可以参见[这里](./INFORMATION_GUIDE.md)。
+具体细节可以参见[这里](https://community.wuhan2020.org.cn/zh-cn/docs/dev/contributing.html)。
 
 ## 我是开发相关志愿者，使用GitHub
 
