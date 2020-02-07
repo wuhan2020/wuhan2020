@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/wuhan2020-Community%20Website-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/)
 [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
-### Volunteer entrance         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+### Volunteer entrance         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 - [Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention](#information-collection-platform-for-wuhan-2019-ncov-epidemic-prevention)
   - [Collaboration process](#collaboration-process)
@@ -85,7 +85,7 @@ Please click [here](./INFORMATION_GUIDE_EN.md)
 
 # Slack Communication Group
 
-Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTI2NTU1NzU3MTM2LWQ1YjIzMDllYjYzYTE1OTNhMWU4OTZkOGYzOGJhOWM2MzdlMjgwMmZiOWEzYTQwNmJkZDI4OWRmM2Q2ZDM1MTc)
+Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 ## Slack Channel Navigation
 
