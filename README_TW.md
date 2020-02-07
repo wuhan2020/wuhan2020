@@ -78,7 +78,7 @@
 - [義診](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)
 - [在外武漢遊客住宿資訊](https://shimo.im/sheets/pdHRcXyKqJdqPyGJ/MODOC/)
 
-具體細節可以參見[此處](./INFORMATION_GUIDE.md)。
+具體細節可以參見[此處](https://community.wuhan2020.org.cn/zh-cn/docs/dev/contributing.html)。
 
 ## 我是開發相關志願者，使用GitHub
 

@@ -85,7 +85,7 @@ Clicca [qui](./CONTRIBUTING.md).
 
 ## Guida alla raccolta delle informazioni
 
-Clicca [qui](./INFORMATION_GUIDE.md).
+Clicca [qui](https://community.wuhan2020.org.cn/it-it/docs/dev/contributing.html).
 
 # Incontriamoci su Slack
 

@@ -85,7 +85,7 @@
 ここを[クリック](./CONTRIBUTING.md)してください。
 
 ## 情報収集ガイド
-ここを[クリック](./INFORMATION_GUIDE.md)してください。
+ここを[クリック](https://community.wuhan2020.org.cn/ja-jp/docs/dev/contributing.html)してください。
 
 
 # Slack 交流グループ
