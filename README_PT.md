@@ -32,7 +32,7 @@ Esse repositório será o principal mantenedor de dados. Todos os dados vistos a
 
 Essa plataforma tem os seguintes passos para colaboração:
 
-![img](https://yokii.cn/i/en.jpg) //update image here to pt-br
+![img](https://yokii.cn/i/en.jpg)
 
 Todas as partes são processadas automaticamente e não necessitam de trabalho manual, exceto pelos reviews e validações de dados/informações.
 
