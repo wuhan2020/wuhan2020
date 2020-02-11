@@ -1,6 +1,6 @@
 # [簡體中文](./README.md) | 繁體中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
-[![wuhan2020 社区官网](https://img.shields.io/badge/wuhan2020-社区官网-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn)
+[![wuhan2020 社群官網](https://img.shields.io/badge/wuhan2020-社区官网-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn)
 [![wuhan2020 官方公告](https://img.shields.io/badge/wuhan2020-官方公告-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/zh-cn/blog/wuhan2020-official-announcement.html)
 
 ### 志願者入口        >>> [![按一下加入 Slack 交流群組](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
@@ -26,7 +26,7 @@
 
 針對 2020 年初在武漢爆發的新型冠狀病毒疫情，本專案旨在收集各醫院、酒店、工廠、物流、捐贈、捐款、預防、治療、動態等資訊，統一收集，統一發布，以便各方之間進行資訊互通，有效調配社會資源。
 
-該倉庫為資料主倉，所有數據由腳本自動提交匯入，**_請不要在該倉庫中直接提交數據資訊_**，具體資料提交管道，請參考該文件。
+該倉庫為資料主倉，所有資料均由腳本自動提交匯入，**_請不要在該倉庫中直接提交資料資訊_**，具體資料提交管道，請參考該檔案。
 
 ## 協作流程
 
@@ -34,11 +34,11 @@
 
 ![img](http://www.plantuml.com/plantuml/png/RP31Jkf068NtynIJkMiImf85uQxGdT4d6DfH6akRj5EDEqb4H2MO420HerOn4arQZT5e0NcPcIckU0NR3bqOtJKzttyotodQ55lKgUg0QbGdSDUfO2ENpMKXRxNPz4AyriBH2G1OeQO57PjODiGsHABx95gUQ9-npy5ylxwO7B7nc4sxB0WMaoQ2_zQ92XHJrub2DTEmeLtHgcPo6bwzy9kHw3M4UukMnTXHDPgat7F5zJkVzSN1B2gEcaeM8GPGCSLbR1EufT6AKqxOaaPNea_v5ZRkyA23036eHlTW6IlRn50Jxl_QAjmWrWwnqhgKshHCWwOORxR2H__B_GW7tjz2G0wGAKYTF4HivegQ7-yG316G6fbVUMpaNI8WHuXpQH41Cf8Ozyv5_stUUE378-vFUFqE0I39-2XrogVpIrwIop_n0gbwfY3zVfoq_Vdz8J_jyUTkE0mGA4QfKzM_0G00)
 
-除資訊人工審核外，其他部分均為自動化完成，不應需要人工介入。
+除資訊人工審核外，其他部分均為自動化完成，不需要人工介入。
 
-## 該平台主要開源專案
+## 該平台主要開放原始碼專案
 
-### 數據同步
+### 資料同步
 
 -	代碼倉庫： https://github.com/wuhan2020/data-sync
 
@@ -64,11 +64,11 @@
 
 本平台收集資訊包含如下幾類資料提交的資訊，請分別申報填寫。
 
-本平台使用石墨文檔收集資料資訊，並由腳本定時同步數據到該倉庫，請不要在該倉庫中直接修改資料檔案。
+本平台使用石墨文檔收集資料資訊，並由腳本定時資料同步到該倉庫，請不要在該倉庫中直接修改資料檔案。
 
 由於參與人員較多，不開放所有人員的編輯權限，請在[此處](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)填寫申請，會定向邀請到特定表單中進行資訊登錄。
 
-### 石墨文檔地址：
+### 石墨文檔網址：
 
 - [醫院](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/ )
 - [酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
@@ -86,7 +86,7 @@
 
 **提交issue**
 
-`issue`可以是需求，也可以是建議或bug等。在提交 `issue` 時，請確定 `issue` 的類型，並在標題中註明，專案的機器人將會自動打上對應的標籤。具體類型現在定義如下：
+`issue`可以是需求，也可以是建議或bug等。在送出 `issue` 時，請確定 `issue` 的類型，並在標題中註明，專案的機器人將會自動打上對應的標籤。具體類型現在定義如下：
 
 - hospital: 醫院相關資訊
 - factory: 生產相關資訊
