@@ -5,7 +5,7 @@
 
 ### Entrada Voluntária         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [Plataforma de coleção de informações sobre Wuhan 2019-nCov Prevenção Epidêmica ](#plataforma-de-coleção-de-informações-sobre-Wuhan-2019-nCov-prevenção-epidemica)
+- [Plataforma de coleção de informações sobre Wuhan Covid-19 Prevenção Epidêmica ](#plataforma-de-coleção-de-informações-sobre-Wuhan-Covid-19-prevenção-epidemica)
   - [Processo de colaboração](#process-de-colaboracao)
   - [Principal dos Sub projetos](#principal-dos-sub-projetos)
     - [Sincronização de dados](#sincronizacao-de-dados)
@@ -20,7 +20,7 @@
 - [Grupo de comunicação Slack](#grupo-de-comunicacao-slack)
   - [Navegação nos canais Slack](#navegacao-nos-canais-slack)
 
-# Plataforma de coleção de Informações sobre Wuhan 2019-nCov Prevenção Epidêmica
+# Plataforma de coleção de Informações sobre Wuhan Covid-19 Prevenção Epidêmica
 Esta tradução foi feita as 13:53(GMT + 11), 11/02/2020.
 
 Este projeto tem intenção de coletar e centralizar informação sobre hospitais, hotéis, fábricas, logísticas, doações, contribuições, prevenção, tratamento e qualquer informação ao vivo a respeito da prevenção da epidêmia nacional, de fontes confiáveis para ajudar todos as pessoas afetadas, ajudar as organizações a comunicarem melhor e coordenar entre si eficientemente o combate contra o Corona Virus (20190-nCoV), que se iniciou em Wuhan, Hubei, Chine. Todo o código será aberto e os dados coletados serão cuidadosamente revisados/validados e disponível para o publico.
