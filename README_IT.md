@@ -1,4 +1,4 @@
-# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano <!-- omit in toc -->
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | Italiano | [Português](./README_PT.md) <!-- omit in toc -->
 
 [![wuhan2020 Sito Web della comunità](https://img.shields.io/badge/wuhan2020-Sito%20Web%20della%20comunit%C3%A0-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it)
 [![wuhan2020 ANNUNCIO UFFICIALE](https://img.shields.io/badge/wuhan2020-ANNUNCIO%20UFFICIALET-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/it-it/blog/wuhan2020-official-announcement.html)
