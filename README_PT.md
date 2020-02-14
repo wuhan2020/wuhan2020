@@ -1,4 +1,4 @@
-# [简体中文](./README.md) | [繁體中文](./README_TW.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) | Português <!-- omit in toc -->
 
 [![Github](https://img.shields.io/badge/wuhan2020-Community%20Website-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/)
 [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
@@ -115,7 +115,7 @@ Você é bem vindo a se juntar e explorar todos os tipos de problemas técnicos 
 
 # FAQ
 
-FAQ Selecinadas，[clique aqui](https://community.wuhan2020.org.cn/en-us/docs/overview/faq.html).
+FAQ Selecionados [clique aqui](https://community.wuhan2020.org.cn/en-us/docs/overview/faq.html).
 
 FAQ para informações do Time, [clique aqui](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 

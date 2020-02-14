@@ -1,4 +1,4 @@
-# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | 日本語 | [Italiano](./README_IT.md) <!-- omit in toc -->
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | 日本語 | [Italiano](./README_IT.md) | [Português](./README_PT.md) <!-- omit in toc -->
 
 [![wuhan2020 コミュニティ公式ウェブサイト](https://img.shields.io/badge/wuhan2020-コミュニティ公式ウェブサイト-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/ja-jp)
 [![wuhan2020 公式発表](https://img.shields.io/badge/wuhan2020-公式発表-green.svg?style=for-the-badge&colorB=red)](http://community.wuhan2020.org.cn/ja-jp/blog/wuhan2020-official-announcement.html)
