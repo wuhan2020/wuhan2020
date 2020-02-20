@@ -59,6 +59,16 @@
 
 - 代码仓库：https://github.com/wuhan2020/shimo-sheet2json
 
+## 合作的公益项目
+
+### 阿里云疫情分析平台（完全免费）
+
+- 基于阿里云日志服务、自动集成同步wuhan2020数据，提供一站式疫情分析可视化、报表订阅与告警、数据订阅或二次开发平台。完全免费。
+- 公共演示项目：https://1340796328858956.cn-shanghai.fc.aliyuncs.com/2016-08-15/proxy/demo/slsconsole/?redirect=true&type=2020
+- 疫情分析平台：https://sls.console.aliyun.com/lognext/app/ncp/setting
+- 详细介绍：https://help.aliyun.com/document_detail/151625.html
+
+
 # 我是志愿者，希望一起维护项目
 ## 我是数据提交志愿者，使用石墨文档
 
