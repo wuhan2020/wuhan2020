@@ -18,6 +18,8 @@
     - [石墨文档地址：](#%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3%e5%9c%b0%e5%9d%80)
   - [贡献指南](#%e8%b4%a1%e7%8c%ae%e6%8c%87%e5%8d%97)
   - [信息收集指南](#%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e6%8c%87%e5%8d%97)
+- [合作的公益项目](#%e5%90%88%e4%bd%9c%e7%9a%84%e5%85%ac%e7%9b%8a%e9%a1%b9%e7%9b%ae)
+  - [阿里云疫情分析平台(完全免费)](#%e9%98%bf%e9%87%8c%e4%ba%91%e7%96%ab%e6%83%85%e5%88%86%e6%9e%90%e5%b9%b3%e5%8f%b0)
 - [Slack交流群组](#slack%e4%ba%a4%e6%b5%81%e7%be%a4%e7%bb%84)
   - [Slack频道导航](#slack%e9%a2%91%e9%81%93%e5%af%bc%e8%88%aa)
 - [FAQ常见问题 （持续更新，招募志愿者一起维护）](#faq%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98-%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%e6%8b%9b%e5%8b%9f%e5%bf%97%e6%84%bf%e8%80%85%e4%b8%80%e8%b5%b7%e7%bb%b4%e6%8a%a4)
@@ -59,14 +61,15 @@
 
 - 代码仓库：https://github.com/wuhan2020/shimo-sheet2json
 
-## 合作的公益项目
+# 合作的公益项目
 
-### 阿里云疫情分析平台（完全免费）
+## 阿里云疫情分析平台
 
-- 基于阿里云日志服务、自动集成同步wuhan2020数据，提供一站式疫情分析可视化、报表订阅与告警、数据订阅或二次开发平台。完全免费。
+- [阿里云日志服务](https://www.aliyun.com/product/sls)（SLS）与开源项目wuhan2020合作构建的公益项目，自动集成同步wuhan2020数据，提供一站式疫情分析可视化、报表订阅与告警、数据订阅或二次开发平台，完全免费。
+- 非常欢迎技术志愿者使用、二次开发或做数据信息贡献，一起用技术助力全球疫情抗战。
+- 项目介绍：https://m.aliyun.com/markets/aliyun/sls-ncp
 - 公共演示项目：https://1340796328858956.cn-shanghai.fc.aliyuncs.com/2016-08-15/proxy/demo/slsconsole/?redirect=true&type=2020
 - 疫情分析平台：https://sls.console.aliyun.com/lognext/app/ncp/setting
-- 详细介绍：https://help.aliyun.com/document_detail/151625.html
 
 
 # 我是志愿者，希望一起维护项目
