@@ -123,4 +123,4 @@ wuhan2020 전자우편 목록: [wuhan2020@googlegroups.com](https://groups.googl
 [Shimo 문서](https://shimo.im/docs/DdWvXvtvpxrqrJ83)를 눌러주세요.
 
 ---
-번역: [@gnh1201](https://github.com/gnh1201)
+번역: Go Namhyeon [@gnh1201](https://github.com/gnh1201)
