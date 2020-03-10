@@ -109,7 +109,7 @@
 
 # 전자우편 목록
 
-wuhan2020 전자우편 목록: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([subscribe](mailto:wuhan2020+subscribe@googlegroups.com), [unsubscribe](mailto:wuhan2020+unsubscribe@googlegroups.com), [archive](https://groups.google.com/forum/#!forum/wuhan2020))
+wuhan2020 전자우편 목록: [wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([구독](mailto:wuhan2020+subscribe@googlegroups.com), [구독해지](mailto:wuhan2020+unsubscribe@googlegroups.com), [포럼](https://groups.google.com/forum/#!forum/wuhan2020))
 
 모든 종류의 기술 및 비기술적 문제를 모색하기 위해 함께 모여 오신 것을 환영합니다. 모든 사람들이 함께 노력하여 어려움을 극복하고 바이러스와 싸우도록합시다!
 
