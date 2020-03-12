@@ -5,7 +5,7 @@
 
 ### Volunteer entrance         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [Information Collection Platform for Wuhan Covid-19 Epidemic Prevention](#information-collection-platform-for-wuhan-Covid-19-epidemic-prevention)
+- [Information Collection Platform for Covid-19 Epidemic Prevention](#information-collection-platform-for-wuhan-Covid-19-epidemic-prevention)
   - [Collaboration process](#collaboration-process)
   - [Major Open Source Sub-Projects](#major-open-source-sub-projects)
     - [Data Synchronization](#data-synchronization)
@@ -20,7 +20,7 @@
 - [Slack Communication Group](#slack-communication-group)
   - [Slack Channel Navigation](#slack-channel-navigation)
 
-# Information Collection Platform for Wuhan Covid-19 Epidemic Prevention
+# Information Collection Platform for Covid-19 Epidemic Prevention
 This translation updates to 18:30(CST), 1/30/2020.
 
 This project aims at collecting and gathering information of hospitals, hotels, factories, logistics, donations, contributions, prevention, treatment and any live information regarding national epidemic prevention from reliable sources to help all affected people, organizations better communicate and coordinate with each other to efficiently and effectively fight against the Novel Coronavirus (Covid-19) outbreak that started in Wuhan, Hubei, China. All of the code will be open-source and the data collected will be carefully reviewed/validated and available to the public.
