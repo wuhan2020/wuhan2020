@@ -1,11 +1,11 @@
-# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) | Português <!-- omit in toc -->
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) | Português | [한국어](./README_KO.md) <!-- omit in toc -->
 
 [![Github](https://img.shields.io/badge/wuhan2020-Community%20Website-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/)
 [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
 ### Entrada Voluntária         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [Plataforma de coleção de informações sobre Wuhan Covid-19 Prevenção Epidêmica ](#plataforma-de-coleção-de-informações-sobre-Wuhan-Covid-19-prevenção-epidemica)
+- [Plataforma de coleção de informações sobre COVID-19 Prevenção Epidêmica ](#plataforma-de-coleção-de-informações-sobre-COVID-19-prevenção-epidêmica)
   - [Processo de colaboração](#process-de-colaboracao)
   - [Principal dos Sub projetos](#principal-dos-sub-projetos)
     - [Sincronização de dados](#sincronizacao-de-dados)
@@ -20,7 +20,7 @@
 - [Grupo de comunicação Slack](#grupo-de-comunicacao-slack)
   - [Navegação nos canais Slack](#navegacao-nos-canais-slack)
 
-# Plataforma de coleção de Informações sobre Wuhan Covid-19 Prevenção Epidêmica
+# Plataforma de coleção de Informações sobre COVID-19 Prevenção Epidêmica
 Esta tradução foi feita as 13:53(GMT + 11), 11/02/2020.
 
 Este projeto tem intenção de coletar e centralizar informação sobre hospitais, hotéis, fábricas, logísticas, doações, contribuições, prevenção, tratamento e qualquer informação ao vivo a respeito da prevenção da epidêmia nacional, de fontes confiáveis para ajudar todos as pessoas afetadas, ajudar as organizações a comunicarem melhor e coordenar entre si eficientemente o combate contra o Corona Virus (20190-nCoV), que se iniciou em Wuhan, Hubei, Chine. Todo o código será aberto e os dados coletados serão cuidadosamente revisados/validados e disponível para o publico.
