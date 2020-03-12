@@ -1,11 +1,11 @@
-# [简体中文](./README.md) | [繁體中文](./README_TW.md) | English | [日本語](./README_JP.md) | [Italiano](./README_IT.md) | [Português](./README_PT.md) | [한국어](./README_KO.md) <!-- omit in toc -->
+# [简体中文](./README.md) | [繁體中文](./README_TW.md) | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) | [Português](./README_PT.md) | 한국어 <!-- omit in toc -->
 
 [![Github](https://img.shields.io/badge/wuhan2020-Community%20Website-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/)
 [![Github](https://img.shields.io/badge/wuhan2020-OFFICIAL%20ANNOUNCEMENT-green.svg?style=for-the-badge&colorB=red)](https://community.wuhan2020.org.cn/en-us/blog/wuhan2020-official-announcement.html)
 
 ### 자원 시작하기         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [우한 Covid-19 확산 방지를 위한 정보 취합 플랫폼](#information-collection-platform-for-wuhan-Covid-19-epidemic-prevention)
+- [COVID-19 확산 방지를 위한 정보 취합 플랫폼](#COVID-19-확산-방지를-위한-정보-취합-플랫폼)
   - [협업 절차](#collaboration-process)
   - [주요 오픈소스 하위 프로젝트](#major-open-source-sub-projects)
     - [데이터 동기화](#data-synchronization)
@@ -20,10 +20,10 @@
 - [슬랙 소통 그룹](#slack-communication-group)
   - [슬랙 채널 안내](#slack-channel-navigation)
 
-# 우한 Covid-19 확산 방지를 위한 정보 취합 플랫폼
+# COVID-19 확산 방지를 위한 정보 취합 플랫폼
 이 번역은  2020-03-10 13:49:00(KST)에 갱신되었습니다.
 
-이 프로젝트는 병원, 호텔, 제조, 물류, 기부, 봉사, 예방, 치료 및 신뢰할 수 있는 출처의 국가 전염병 예방에 관한 모든 실시간 정보를 수집하여 영향을 받는 모든 사람, 조직이 서로 잘 의사 소통 할 수 있도록 도와줍니다. 중국 후베이 우한에서 시작된 신종 코로나 바이러스 (Covid-19) 발생에 맞서 효율적이고 효과적으로 싸울 수 있습니다. 모든 코드는 공개되며 수집 된 자료는 신중하게 검토 및 검증하여 공개됩니다.
+이 프로젝트는 병원, 호텔, 제조, 물류, 기부, 봉사, 예방, 치료 및 신뢰할 수 있는 출처의 국가 전염병 예방에 관한 모든 실시간 정보를 수집하여 영향을 받는 모든 사람, 조직이 서로 잘 의사 소통 할 수 있도록 도와줍니다. 중국 후베이 우한에서 시작된 신종 코로나 바이러스 (COVID-19) 발생에 맞서 효율적이고 효과적으로 싸울 수 있습니다. 모든 코드는 공개되며 수집 된 자료는 신중하게 검토 및 검증하여 공개됩니다.
 
 이 저장소는 기본 데이터 웨어하우스로 작동합니다. 여기에 표시되는 모든 자료는 스크립트에 의해 자동으로 가져옵니다. **_이 저장소에 직접 자료를 제출하지 마십시오_** 데이터 제출에 대한 질문은 문서의 다른 섹션을 참조하십시오.
 

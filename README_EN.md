@@ -5,7 +5,7 @@
 
 ### Volunteer entrance         >>> [![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [Information Collection Platform for COVID-19 Epidemic Prevention](#information-collection-platform-for-wuhan-COVID-19-epidemic-prevention)
+- [Information Collection Platform for COVID-19 Epidemic Prevention](#information-collection-platform-for-COVID-19-epidemic-prevention)
   - [Collaboration process](#collaboration-process)
   - [Major Open Source Sub-Projects](#major-open-source-sub-projects)
     - [Data Synchronization](#data-synchronization)

@@ -5,7 +5,7 @@
 
 ### Volunteer entrance      >>> [![Clicca qui per entrare nel nostro gruppo su Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-- [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan Covid-19](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-wuhan-Covid-19)
+- [Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, COVID-19](#piattaforma-di-raccolta-informazioni-per-la-prevenzione-epidemica-del-nuovo-coronavirus-COVID-19)
   - [Processo di coordinamento](#processo-di-coordinamento)
   - [Principali sotto-progetti open source](#principali-sotto-progetti-open-source)
     - [sincronizzazione dei dati](#sincronizzazione-dei-dati)
@@ -21,7 +21,7 @@
   - [Navigazione del canale Slack](#navigazione-del-canale-slack)
 - [FAQ (Sezione in fase di sviluppo, restate sintonizzati! Abbiamo bisogno di volontari che contribuiscano a questa sezione, chi è interessato è invitato a contattarci!)](#faq-sezione-in-fase-di-sviluppo-restate-sintonizzati-abbiamo-bisogno-di-volontari-che-contribuiscano-a-questa-sezione-chi-%c3%a8-interessato-%c3%a8-invitato-a-contattarci)
 
-# Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, Wuhan Covid-19
+# Piattaforma di raccolta informazioni per la prevenzione epidemica del nuovo coronavirus, COVID-19
 
 In relazione al focolaio di polmonite, ed altri sintomi, insorto in Cina all'inizio dell'anno 2020 in associazione alla diffusione di un nuovo tipo di coronavirus, il presente progetto ha l'obiettivo di raccogliere e diffondere informazioni riguardanti: strutture (ospedali, istituti sanitari, alberghi, ristoranti, impianti di produzione e confezionamento), logistica, contributi e donazioni, prevenzione e supporto medico, ed altre notizie, allo scopo di facilitare lo scambio informativo e l'impiego efficace ed efficiente di risorse sociali.
 
