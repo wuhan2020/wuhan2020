@@ -6,7 +6,7 @@
 ### 志願者入口        >>> [![按一下加入 Slack 交流群組](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 
-- [武漢新型冠狀病毒防疫資訊收集平台](#%e6%ad%a6%e6%b1%89%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92%e9%98%b2%e7%96%ab%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e5%b9%b3%e5%8f%b0)
+- [新型冠狀病毒肺炎防疫資訊收集平台](#%e6%ad%a6%e6%b1%89%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92%e9%98%b2%e7%96%ab%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e5%b9%b3%e5%8f%b0)
   - [協作流程](#%e5%8d%8f%e4%bd%9c%e6%b5%81%e7%a8%8b)
   - [該平台主要開源專案](#%e8%af%a5%e5%b9%b3%e5%8f%b0%e4%b8%bb%e8%a6%81%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae)
     - [資料同步](#%e6%95%b0%e6%8d%ae%e5%90%8c%e6%ad%a5)
@@ -22,7 +22,7 @@
   - [Slack頻道導航](#slack%e9%a2%91%e9%81%93%e5%af%bc%e8%88%aa)
 - [FAQ常見問題 （持續更新，招募志願者一起維護）](#faq%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98-%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%e6%8b%9b%e5%8b%9f%e5%bf%97%e6%84%bf%e8%80%85%e4%b8%80%e8%b5%b7%e7%bb%b4%e6%8a%a4)
 
-# 武漢新型冠狀病毒防疫資訊收集平台
+# 新型冠狀病毒肺炎防疫資訊收集平台
 
 針對 2020 年初在武漢爆發的新型冠狀病毒疫情，本專案旨在收集各醫院、酒店、工廠、物流、捐贈、捐款、預防、治療、動態等資訊，統一收集，統一發布，以便各方之間進行資訊互通，有效調配社會資源。
 
