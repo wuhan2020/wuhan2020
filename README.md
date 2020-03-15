@@ -6,7 +6,7 @@
 ### 志愿者入口        >>> [![点击加入 Slack 交流群组](https://img.shields.io/badge/slack-join-orange.svg)](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
 
-- [新型冠状病毒肺炎防疫信息收集平台](#%e6%ad%a6%e6%b1%89%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92%e9%98%b2%e7%96%ab%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e5%b9%b3%e5%8f%b0)
+- [新型冠状病毒肺炎防疫信息收集平台](#%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E9%98%B2%E7%96%AB%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E5%B9%B3%E5%8F%B0)
   - [协作流程](#%e5%8d%8f%e4%bd%9c%e6%b5%81%e7%a8%8b)
   - [该平台主要开源项目](#%e8%af%a5%e5%b9%b3%e5%8f%b0%e4%b8%bb%e8%a6%81%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae)
     - [数据同步](#%e6%95%b0%e6%8d%ae%e5%90%8c%e6%ad%a5)
