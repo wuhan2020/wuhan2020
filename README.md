@@ -15,11 +15,14 @@
     - [地图可视化组件](#%e5%9c%b0%e5%9b%be%e5%8f%af%e8%a7%86%e5%8c%96%e7%bb%84%e4%bb%b6)
     - [石墨表格同步组件](#%e7%9f%b3%e5%a2%a8%e8%a1%a8%e6%a0%bc%e5%90%8c%e6%ad%a5%e7%bb%84%e4%bb%b6)
   - [合作的公益项目](#%E5%90%88%E4%BD%9C%E7%9A%84%E5%85%AC%E7%9B%8A%E9%A1%B9%E7%9B%AE)
+  - [我是志愿者](#%E6%88%91%E6%98%AF%E5%BF%97%E6%84%BF%E8%80%85%E5%B8%8C%E6%9C%9B%E4%B8%80%E8%B5%B7%E7%BB%B4%E6%8A%A4%E9%A1%B9%E7%9B%AE)
+	- [我是开发相关志愿者，使用GitHub](#%E6%88%91%E6%98%AF%E6%95%B0%E6%8D%AE%E6%8F%90%E4%BA%A4%E5%BF%97%E6%84%BF%E8%80%85%E4%BD%BF%E7%94%A8%E7%9F%B3%E5%A2%A8%E6%96%87%E6%A1%A3)
+	- [我是数据提交志愿者，使用石墨文档](#%E6%88%91%E6%98%AF%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%BF%97%E6%84%BF%E8%80%85%E4%BD%BF%E7%94%A8github)
   - [贡献指南](#%e8%b4%a1%e7%8c%ae%e6%8c%87%e5%8d%97)
   - [信息收集指南](#%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86%e6%8c%87%e5%8d%97)
 - [Slack交流群组](#slack%e4%ba%a4%e6%b5%81%e7%be%a4%e7%bb%84)
   - [Slack频道导航](#slack%e9%a2%91%e9%81%93%e5%af%bc%e8%88%aa)
-- [FAQ常见问题 （持续更新，招募志愿者一起维护）](#faq%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98-%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%e6%8b%9b%e5%8b%9f%e5%bf%97%e6%84%bf%e8%80%85%e4%b8%80%e8%b5%b7%e7%bb%b4%e6%8a%a4)
+- [FAQ常见问题 （持续更新，招募志愿者一起维护）](#faq%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 # 新型冠状病毒肺炎防疫信息收集平台
 
@@ -68,8 +71,9 @@
 - 详细介绍：https://help.aliyun.com/document_detail/151625.html
 
 
-# 我是志愿者，希望一起维护项目
-## 我是数据提交志愿者，使用石墨文档
+## 我是志愿者，希望一起维护项目
+
+### 我是数据提交志愿者，使用石墨文档
 
 本平台收集信息包含如下几类数据提交的信息，请分别申报填写。
 
@@ -77,7 +81,7 @@
 
 由于参与人员较多，不开放所有人员的编辑权限，请在[这里](https://shimo.im/forms/YVJkGrGCWwQPTpqY/fill)填写申请，会定向邀请到特定表单中进行信息录入。
 
-### 石墨文档地址：
+#### 石墨文档地址：
 
 - [医院](https://shimo.im/sheets/q6WP3DpKKgVW63Pr/4WbFN/ )
 - [酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)
@@ -89,7 +93,7 @@
 
 具体细节可以参见[这里](https://community.wuhan2020.org.cn/zh-cn/docs/dev/contributing.html)。
 
-## 我是开发相关志愿者，使用GitHub
+### 我是开发相关志愿者，使用GitHub
 
 本平台现阶段主要流程是使用GitHub flow以及GitHub project，通过issue和PR来进行处理。参与者需要有GitHub账号。
 
@@ -115,10 +119,10 @@
 具体如何提issue和PR，请参考[这里](./CONTRIBUTING.md)。
 
 
-# Slack交流群组
+## Slack交流群组
 点击加入[Slack 交流群组](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 
-## Slack频道导航
+### Slack频道导航
 
 (需要先加入群组)
 
@@ -138,13 +142,13 @@
 | 海外相关               | [![Github](https://img.shields.io/badge/Slack%20Channel-%23team--overseas-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CTAM5R65U)                |
 | Slack频道运营团队      | [![Github](https://img.shields.io/badge/Slack%20Channel-%23proj--operation-green.svg?style=flat-square&colorB=blue)](https://app.slack.com/client/TT5U1VCPQ/CSX1X74M9)               |
 
-# 邮件列表
+## 邮件列表
 
 wuhan2020 邮件列表：[wuhan2020@googlegroups.com](https://groups.google.com/forum/#!forum/wuhan2020) ([订阅](mailto:wuhan2020+subscribe@googlegroups.com), [退订](mailto:wuhan2020+unsubscribe@googlegroups.com), [存档](https://groups.google.com/forum/#!forum/wuhan2020))
 
 欢迎大家加入共同探讨各类技术或非技术类问题，让我们大家一起齐心协力，众志成城，共克时艰！
 
-# FAQ常见问题
+## FAQ常见问题
 
 已经整理整个项目的FAQ，[请查看](https://community.wuhan2020.org.cn/zh-cn/docs/overview/faq.html)
 
