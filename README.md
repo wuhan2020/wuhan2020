@@ -152,3 +152,4 @@ wuhan2020 邮件列表：[wuhan2020@googlegroups.com](https://groups.google.com/
 信息组FAQ，[请查看](https://shimo.im/docs/JqX9CvrqphPV9T3J/)
 
 请点击[石墨文档](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
+covid19
